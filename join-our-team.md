@@ -37,7 +37,7 @@ permalink: /join-our-team/
 <li>Monthly meetings</li>
 <li>Agent Masterminds</li>
 <li>Weekly Classes </li>
-</ul</p>
+</ul></p>
 
 <p>By joining us at RE/MAX Professionals, you’ll be on the fast track to success. If you want to be successful, there is a huge opportunity here in our culture of giving.</p>
 
