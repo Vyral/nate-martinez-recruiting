@@ -1,34 +1,38 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: The Valley of the Sun's Best Real Estate Training
+description: Nate Martinez, a top Real Estate Agent in The Valley of the Sun, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
+  # - title: Events
+  #   url: #
+  # - title: Free Strategy Call
+  #   url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+  - title: Meet the Owners
+    url: http://www.joinrmxprofessionals.com/Meet-the-Owners
 
 
 client:
-  name:
+  name: Nate Martinez
   title:
   license_number:
   about_markdown: |
+    Nate has been selling real estate in the Valley of the Sun for nearly thirty years. He is the co-owner of RE/MAX Professionals, founded in 2001 and has six valley locations in Glendale, Surprise, Anthem, Arrowhead Ranch, Avondale, and Sun City West.
 
-  market:
-  brand:
+    Nate believes in education and giving back to the real estate industry. His designations include ABR, CRS, GRI, CDPE, CIAS, CLHS, CRP, e-PRO and SFR Each year, Nate attends numerous seminars and training events across the country. As a guest speaker, Nate has been able to train hundreds of real estate professionals, while also learning from some of the best agents in the industry.
+  market: Valley of the Sun
+  brand: RE/MAX Professionals
   brokerage:
-  address:
-  phone:
+  address: 7111 W. Bell Rd. Suite 101<br>Valley of the Sun, AZ 85308
+  phone: 602-430-5226
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: NateM@Remax.net
+  url: http://NatesHomes.com
 
 lender:
   show_section: false
@@ -44,17 +48,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/REMAXProfessionalsAZ
+  linkedin_url: http://www.linkedin.com/in/natemartinez
+  gplus_url: https://plus.google.com/110224445429180454577
+  youtube_url: https://www.youtube.com/user/natemartinez8
+  twitter_url: http://twitter.com/NateMartinez
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/glendale-real-estate-careers/id1194698644?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -74,8 +78,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#DB1C2D'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

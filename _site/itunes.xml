@@ -1,122 +1,823 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with </title>
+    <title>Valley of the Sun Real Estate Podcast with Nate Martinez</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2018-05-30 12:17:35 -0500</lastBuildDate>
-    <media:copyright></media:copyright>
+    <managingEditor>Nate Martinez</managingEditor>
+    <lastBuildDate>2018-08-14 11:29:53 -0500</lastBuildDate>
+    <media:copyright>Nate Martinez</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:email>NateM@Remax.net</itunes:email>
+      <itunes:name>Nate Martinez</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Nate Martinez</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Valley of the Sun Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>What Realtors Must Know About Zillow’s Instant Offer Program</title>
+        <link>localhost:4000/what-realtors-must-know-about-zillows-instant-offer-program.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
-        
-        <author></author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <author>Nate Martinez</author>
+        <pubDate>2018-05-22 08:53:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+zillow+(2).mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What does Zillow&rsquo;s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+&nbsp;
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Zillow has undergone some changes recently, so today I would like to talk about what is new with the site. If you visit Zillow’s website right now, you’ll probably notice that Realtors have been removed from every listing on the site. Now, instead of the name of an agent, the site is advertising their new Instant Offer program.
 
-“This is an example of a pull quote”
+This program shows what Zillow will pay a homeowner for their property. Before, Zillow gave homeowners the opportunity to reach out to agents directly. Now, they are moving past that. This isn’t to say Zillow may not sell leads back to Realtors, but for now, the Instant Offer program has taken the place of agents on the site.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+So, how is this affecting today’s Realtors? For one thing, it means that people who advertise heavily through Zillow, myself included, will no longer have the option to do so.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+However, it is actually investors who will be most affected by this change. This is because Zillow will be getting the first crack at properties investors may have previously been the first to capture.
+
+I also believe that this change will place Zillow in more direct competition with other platforms like Opendoor and OfferPad.
+
+“Zillow will be getting the first crack at properties investors may have previously been the first to capture.”
+
+It is important for Realtors to be aware of this change and how it may affect them. Staying informed is a critical aspect of any agent’s career. If you are concerned about this change, my recommendation is to focus on your past client database. Build deeper connections with people you have already formed relationships with.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+zillow+(2).mp4" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+zillow+(2).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>What does Zillow’s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>What does Zillow’s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>How’s the Phoenix Market Doing Right Now?</title>
+        <link>localhost:4000/hows-the-phoenix-market-doing-right-now.html</link>
         
           <category>Market Update</category>
         
+        <author>Nate Martinez</author>
+        <pubDate>2018-04-29 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+Latest+Phoenix+Real+Estate+Numbers+(1).mp4</guid>
+        <description>
+
+Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.
+
+&nbsp;
+
+The latest numbers are in and I’m excited to share them with you today. Let’s get right to it.
+
+In March of this year, 9,402 homes closed escrow. In January, we only had 6,000 closed sales, which is still a strong number. This is one of the strongest first quarters we’ve seen in a while.
+
+The market is up 36%, but inventory has dropped almost 12% at the same time. There are currently 21,703 homes active on the MLS today. The average list price is up 8.8% to $381,000 and the average sale price is up 9.5% to $316,400.
+
+One of the most fascinating things I found was when looking at this year’s numbers compared to the numbers from the past 18 years. Back in 2001, the average price in the valley was $175,900. In 2007, the market roared to a peak of $345,900 before crashing and bottoming out in 2009 at $159,080. We’ve made a significant rebound since. Today, the average price is $316,365.
+
+People who bought at the peak are close to being back where they were. People who bought 17 years ago have more than doubled their money, as have the people who bought at the bottom of the market.
+
+“People who bought at the peak are seeing values rise back to where they were before.”
+
+As an added note, I’ve seen more cranes in the sky in the Phoenix than I have in the last 10 years. High-rises, hotels, and more are being built all around the Valley, which is great news for our economy and ultimately, our market.
+
+I hope your market is doing well. If you have any questions for me at all about the latest numbers or about the business in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+Latest+Phoenix+Real+Estate+Numbers+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+Latest+Phoenix+Real+Estate+Numbers+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Phoenix real estate is doing extremely well right now. Here’s what the latest numbers are telling us.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Phoenix Real Estate Market Is Hot</title>
+        <link>localhost:4000/the-phoenix-real-estate-market-is-hot.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2018-03-30 10:45:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Valley+of+the+Sun+Real+Estate+Agent+Phoenix%E2%80%99s+red-hot+market.mp4</guid>
+        <description>
+
+What&rsquo;s going on in the Phoenix real estate market? Here&rsquo;s what you need to know.
+
+&nbsp;
+
+Let’s talk about the hot, robust real estate market in Phoenix.
+
+Last month alone, almost 17% of all homes that closed did so above list price. When it comes to buyers making offers on houses, you’ve got to make sure that you’re writing your offers very aggressively.
+
+Only 3% of the upper-end homes actually got any type of seller concessions. When you get below $250,000, that’s still a pretty high percentage of sellers that will offer concessions. In that same price point, homes are selling way above list price as well.
+
+We’ve experienced multiple offers on almost every home listed above $250,000. In preparing an offer, you want to come in with a higher earnest money deposit, short inspection time, few contingencies, and don’t ask for concessions.
+
+“In this market, you need to come forward with your highest and best offer.”
+
+When you’re representing the seller in today’s market, make sure that you’re studying the different buyers and talking to their lenders so that you can select the absolute best buyer possible. Again, in a hot market like today’s, when houses are selling above list price, you need to come forward with your highest and best offer.
+
+Houses aren’t staying on the market very long. In fact, we have less than three months of inventory available, which is almost 18% lower than this time last year.
+
+If you have any questions, please feel free to reach out to me. If there is a topic you’d like me to discuss in a future video, send them my way; if I select yours, I’ll send you a $50 gift card to a restaurant of your choice.
+
+I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Valley+of+the+Sun+Real+Estate+Agent+Phoenix%E2%80%99s+red-hot+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Valley+of+the+Sun+Real+Estate+Agent+Phoenix%E2%80%99s+red-hot+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s going on in the Phoenix real estate market? Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>What’s going on in the Phoenix real estate market? Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Level Up Your Real Estate Business</title>
+        <link>localhost:4000/how-to-level-up-your-real-estate-business.html</link>
+        
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
+        <author>Nate Martinez</author>
+        <pubDate>2018-03-16 15:19:14 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+to+Level+Up+Your+Real+Estate+Business.mp4</guid>
+        <description>
+
+Today I’m joined by Sarah Michelle Bliss, who has been by my side for the last 20 years of my real estate career. She’s a great success coach, author, and real estate trainer. We’ve put together a great class on Thursday, July 26th from 3:00 p.m. to 6:00 p.m. that we want to tell you about.
+
+It’s called “10 Ways to Level Up Your Real Estate Business” and we will be walking you through a ton of information to help you become more proficient and get the most out of the hours that you are working.
+
+The class is around three hours long, but it’s filled with content that will help you be more present at work and have more time off to enjoy life.
+
+“We can’t wait for you to join us.”
+
+As a bonus for being there, we’re also going to be giving you a copy of our 2018 business plan. It’s a complete business plan that takes you all the way through the steps it takes to build a successful real estate company.
+
+Two of the buzzwords we use in our complete agent development are proactive and intentional. That’s where most agents struggle. They aren’t being consistent and proactive and completing the necessary activities to generate the results you want.
+
+Space is limited so make sure you get signed up soon. You can register here.
+
+If you have any questions about the class or the real estate business in general, don’t hesitate to give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+to+Level+Up+Your+Real+Estate+Business.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+to+Level+Up+Your+Real+Estate+Business.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m excited for you to hear about our upcoming real estate business class. Here’s how we’re going to help agents take their careers to the next level.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>I’m excited for you to hear about our upcoming real estate business class. Here’s how we’re going to help agents take their careers to the next level.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Beat the Competition in This Scorching Hot Market?</title>
+        <link>localhost:4000/how-can-you-beat-the-competition-in-this-scorching-hot-market.html</link>
         
-        <author></author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2018-02-19 14:36:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+Can+You+Beat+the+Competition+in+this+Scorching+Hot+Market%253F+(1).mp4</guid>
+        <description>
+
+Today, I have some advice on how you can handle multiple offer situations.
+
+The Phoenix real estate market is absolutely on fire, and December 2017 was one of the busiest months of my career. Now that we’re in January of 2018, we’re getting multiple offers on just about every property that we place on the market. This affects the buyers possibly even more than the sellers.
+
+“An escalation clause is a technique that may be necessary to get the house you want in this hot market.”
+
+If you’re a buyer or representing a buyer in today’s marketplace, an escalation clause will help you beat out the current highest offer by offering a certain amount more. Essentially, it is a clause in the contract that says that the buyer is willing to pay X amount more than the highest offer received by the seller.  For example, let’s say you’re making an offer on a house priced at $400,000. You can put in an escalation clause that says you’ll outbid any other buyer by, say, $1,000. This might be a technique that is necessary to get the house that you want.
+
+Inventory is still very low in the valley, but the demand is very high, so hopefully an escalation clause will help give you the edge you need to get the home of your dreams.
+
+If you have any other questions about escalation clauses or you’re thinking about buying or selling a home in our market, give me a call or shoot me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+Can+You+Beat+the+Competition+in+this+Scorching+Hot+Market%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+How+Can+You+Beat+the+Competition+in+this+Scorching+Hot+Market%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can you win in a multiple offer situation in this red-hot seller’s market? I have an idea that could help you succeed.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>How can you win in a multiple offer situation in this red-hot seller’s market? I have an idea that could help you succeed.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Valuable Presentation on Building Wealth in Your Life</title>
+        <link>localhost:4000/a-valuable-presentation-on-building-wealth-in-your-life.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2018-01-30 09:57:55 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+A+Valuable+Presentation+on+Building+Wealth+in+Your+Life+(1).mp4</guid>
+        <description>
+
+As you may remember, I did a video a couple of months ago on the book “Wealth Can’t Wait” by David Osborn and Paul Morris.
+
+Around that same time, I had the pleasure of flying David in to give an hour-long talk on his book and how to build wealth. The information he shared was truly valuable and is sure to help you build wealth in your life.
+
+“In his talk, David provides a lot of insight into how to build wealth.”
+
+The next time you have an hour of free time, I’d like you to sit down and watch David’s presentation. You can find the video from that seminar here.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+A+Valuable+Presentation+on+Building+Wealth+in+Your+Life+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+A+Valuable+Presentation+on+Building+Wealth+in+Your+Life+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’ve got a special opportunity to share with you today. If you weren’t able to see David Osborn’s presentation a few months ago on how to build wealth in your life, now is your chance.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>I’ve got a special opportunity to share with you today. If you weren’t able to see David Osborn’s presentation a few months ago on how to build wealth in your life, now is your chance.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Need to Know About Radon Gas</title>
+        <link>localhost:4000/what-you-need-to-know-about-radon-gas.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-12-18 07:27:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+What+You+Need+to+Know+About+Radon+Gas.mp4</guid>
+        <description>
+
+Over the last couple of months, I’ve heard the word “radon” too many times.
+
+It’s interesting because whenever I talk to other real estate professionals, I ask them how many of the homes they’ve dealt with have had radon in them, and they always say, “None.”
+
+Some buyers from the East Coast have some knowledge about radon, as do a few homeowners.
+
+Radon came to my attention when I was representing a buyer during a transaction on a house in Scottsdale. This house had fallen out of escrow because the radon test came back two points higher than the national standard of 4%.
+
+“If the house has a basement or underground air units, order a radon test.”
+
+Radon is an odorless, poisonous gas that can cause lung cancer over long periods of exposure. As I’ve learned more about radon, I’ve found that the reason most people don’t find it in our area is that hardly anyone looks for it.
+
+I was always taught that radon tests are necessary in mountainous regions because radon comes from granite in the ground. However, this Scottsdale house was on a flat piece of dirt and ended up having a high radon content.
+
+We made the offer contingent on the seller getting radon levels down. At first, the seller paid $5,000 to fix the problem. The radon levels did not go down. The seller then spent another $5,000. After all the work they did and money they spent, the radon levels actually went higher, which was no good, and the buyer walked away.
+
+I just want to make sure that people are aware that radon is out there. If you are buying a home, ask for a radon test. They only cost $300 to $350. If the house has a basement or underground air units, then you definitely need to order a radon test.
+
+If you have any other questions about radon or buying a home, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+What+You+Need+to+Know+About+Radon+Gas.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+What+You+Need+to+Know+About+Radon+Gas.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why should you order a radon test when buying a home? I’ll go over a few reasons today.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Why should you order a radon test when buying a home? I’ll go over a few reasons today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>14 Activities Every Real Estate Agent Should Master: Part Two</title>
+        <link>localhost:4000/14-activities-every-real-estate-agent-should-master-part-two.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-11-28 07:45:55 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+14+Activities+Every+Real+Estate+Agent+Should+Master-+Part+Two.mp4</guid>
+        <description>
+
+There are 14 vital activities that every real estate agent should do. Last time, we focused on the seven things you need to do to help sellers. Today, we’ll focus on what you need to do to master representing buyers.
+
+1. Lead generation. Again, you need to be constantly generating new leads through open houses, Zillow, yard signs, and referrals from past clients, family, and friends.
+
+2. Have a conversion process. What do you do to convert this person from a name and number into a buyer and broker contract?
+
+3. Paperwork. Get that agreement signed and take care of agency disclosures and buyer advisories while you are in the beginning stages of working with the buyer.   
+
+4. Finding and showing the perfect home. This is the fun part. You get to guide the buyer through their home search.
+
+“You need to be able to write an offer that will get accepted.”
+
+5. Writing and negotiating the best purchase agreement. You need to be proficient in making sure that your offers protect the buyer’s best interests. You also need to make sure that the buyer understands all of the inspections and finance contingencies. The bottom line is that you need to be able to write an offer that will be accepted.
+
+6. Closing. Again, it’s important to make sure that the closing process goes smoothly. Be there with your buyer at the closing table in case they have any questions or concerns. You are there to be their advocate. Let them know that you care by showing up to closing. Then, when everything has been done, you can ask if there is anyone they can refer you to.
+
+7. Post-closing activities. In my 31 years of real estate, I’ve noticed that this step gets skipped the most. What are you doing to develop a deep relationship with this client after you close escrow? After all, they may be a client who will bring you business for the rest of your life.
+
+You need to have detailed plans in place to make sure that you are relevant in their mind. Call them up every now and then, invite them to sporting events, or host annual client appreciation events. You can also check to see how they like the house. If they have any challenges or need a repairman, you can put them in touch with one. You will position yourself as a great real estate resource.
+
+I hope these 14 activities will help you grow your business. If you have any questions, please don’t hesitate to reach out to me. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+14+Activities+Every+Real+Estate+Agent+Should+Master-+Part+Two.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+14+Activities+Every+Real+Estate+Agent+Should+Master-+Part+Two.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m back with the last seven activities that every real estate agent needs to do. The first seven focused on listings, so today, we’ll focus on homebuyers.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>I’m back with the last seven activities that every real estate agent needs to do. The first seven focused on listings, so today, we’ll focus on homebuyers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Skip These 14 Activities Every Real Estate Agent Should Master</title>
+        <link>localhost:4000/dont-skip-these-14-activities-every-real-estate-agent-should-master.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-11-10 06:08:55 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Dont+Skip+These+14+Activities+Every+Real+Estate+Agent+Should+Master.mp4</guid>
+        <description>
+
+There are 14 vital activities that each Realtor should do. I’ll go over the first seven for you today.
+
+1. Lead generation. It’s so important to constantly generate leads.
+
+2. Converting leads. Turn those leads into appointments and then into contracts.
+
+3. Administrative work. Most Realtors don’t like paperwork, which is why we have transaction coordinators to help us out. Administrative paperwork is a vital activity that we must do ourselves or delegate to others.
+
+4. Have good presentation. It’s important to present at listing appointments, in front of buyers, and in the negotiation of contracts. Whether you are representing the buyer or seller, you have to be able to negotiate on their behalf.
+
+5. Marketing. You need to have a strategic marketing plan in place. Whether you are trying to connect with people through farming, Zillow, or wherever it may be that you are spending money to generate leads, marketing is a highly important function of being a Realtor.
+
+“There are many components that you need to master, but the closing component is extremely important.”
+
+6. Closing. All of your hard work goes into the closing day. You want to make sure that you are able to get the closing done right. There are many components that you need to master, but the closing component is extremely important. Make sure you go to closings so that you can represent your client. By going to the closing, you will also be present in your client’s mindset and they will be more likely to send your information to their friends and family.
+
+7. Post-closing activities. What do you do once the house is closed? Do you just cash the check and never talk to those people again? Or do you want these people to become part of the fabric of your life? It’s very important to have an ongoing follow-up plan for everyone you represent.
+
+After all, if you had a good transaction, then they know, like, and trust you. They also know what to expect by working with you. Now it’s up to you to stay in constant contact with them. If they need help with the house, finding contractors, or dealing with home warranty issues, you should be their advocate. Invite them to dinner, call on them cordially after closing, or invite them to client events.
+
+Stay tuned for the next seven tasks that every real estate agent should do. In the meantime, if you have any questions, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Dont+Skip+These+14+Activities+Every+Real+Estate+Agent+Should+Master.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Dont+Skip+These+14+Activities+Every+Real+Estate+Agent+Should+Master.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Every real estate agent needs to do 14 activities in order to be successful. I’ll cover the first seven for you today.</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>Every real estate agent needs to do 14 activities in order to be successful. I’ll cover the first seven for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We Want to Teach You How to Build Your Wealth</title>
+        <link>localhost:4000/we-want-to-teach-you-how-to-build-your.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-10-20 12:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4</guid>
+        <description>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+Join RE/MAX Professionals
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that. You’ll learn how to embrace the habits and mindsets of the wealthy.
+
+You’ll also learn the seven pillars of wealth-building from none other than the guy who wrote the book—literally. We’re flying in “Wealth Can’t Wait” author David Osborn. We’re going to give away all of our strategies and systems so you can build a profitable business.
+
+When the event is over, you’ll leave with not only the knowledge to build wealth, but also a copy of David’s book.
+
+“WE’RE GIVING AWAY ALL OF OUR STRATEGIES AND SYSTEMS SO YOU CAN BUILD A PROFITABLE BUSINESS.”
+
+However, space is limited so only the first 200 in attendance will receive this free copy. To RSVP for this free event, click here.
+
+But there is one catch after you register: you have to show up.
+
+We hope to see you there on Thursday, November 2nd starting at 8:30 a.m.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Are you a real estate agent who wants to build wealth? I want to let you know that you’re invited to our next training session, where you’ll learn how to do exactly that.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Did You Sell Any of the 14,904 Homes Yesterday?</title>
+        <link>localhost:4000/did-you-sell-any-of-14904-homes.html</link>
+        
+          <category>Valley of the Sun Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-09-26 10:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4</guid>
+        <description>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+Join RE/MAX Professionals
+
+Did you know that 14,904 homes sold yesterday alone? That’s straight from the National Association of Realtors.
+
+In the Phoenix area, there are about 88,000 home sales per year. That breaks down to 7,400 each month and 275 each day. With over 35,000 Realtors in the Valley of the Sun, there are at least 26,000 Realtors who didn’t even sell a home last month.
+
+How does this happen? As you may or may not know, a lot of licensed agents around here only work in real estate part-time. At Re/MAX Professionals, we focus on real estate as a full-time career. This is one of the reasons why our agents are able to sell 24 homes per year on average, the highest average in the Valley.
+
+“THERE ARE AT LEAST 26,000 REALTORS WHO DON’T SELL A HOME EACH MONTH.”
+
+We train well, we pay well, and we support well. We have several events coming up soon. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+Also, I wan to remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll learn a lot and walk away with a free hardcover copy of David’s book. Learn more about the event here.
+
+
+
+If you have any other questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Only a small percentage of agents make the most sales. Our team is part of that small percentage.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Recent Trends in Hispanic Homeownership</title>
+        <link>localhost:4000/recent-trends-in-hispanic-homeownership.html</link>
+        
+          <category>Valley of the Sun Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-09-11 15:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4</guid>
+        <description>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+Join RE/MAX Professionals
+
+The National Association of Hispanic Real Estate Professionals has recently published a report that I wanted to talk about today. There are a lot of interesting numbers in here that point to an upward trend in Hispanic homeownership that no other demographic is seeing. Here’s what’s been going on:
+
+• In 2016, there were 7.3 million Hispanic homeowners in the U.S.
+
+• Also in 2016, there were 209,000 new Hispanic homeowners.
+
+• Hispanic people account for 60% of the U.S.’s overall growth in homeownership.
+
+• Hispanic people will account for 52% of new homeownership between 2010 and 2030.
+
+• From 2010 to 2015, Hispanics accounted for more than half the population growth in the U.S. according to the U.S. Census.
+
+• Six out of 10 Hispanic homebuyers are millennials.
+
+• The Hispanic purchasing power was $1.4 trillion in 2016—more than the entire country of Australia.
+
+• Hispanic people account for 76.4% of labor growth.
+
+In addition to these numbers, you can see a graph in the video above that shows the growth in owner-occupied units. You can see the Hispanic population of homeowners start to increase over the last decade or so now that growth has outpaced that of non-Hispanic homeowners.
+
+Another graph in the video above shows the net homeownership change. It’s interesting to note that Hispanics had an additional 1.1 million homeownership changes from 2010 to 2016, while non-Hispanic homeownership changes went down by 2.2 million.
+
+“HISPANIC HOMEOWNERSHIP IS AT AN ALL-TIME HIGH.”
+
+Some of these stats just absolutely blew me away. After reading into them more, it makes sense. As far as Hispanic attitudes toward homeownership are concerned, raising a family and wealth creation have proven to be the primary drivers. It appears that trend is likely to continue.
+
+Before I go, I wanted to quickly remind you that I’m bringing in David Osborn, one of the authors of “Wealth Can’t Wait” on November 2nd. You’ll walk away with a free hardcover copy of David’s book. Learn more about the event here.
+
+
+
+At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+If you have any questions about that or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+It’s pretty amazing to see some of the home buying numbers in the Hispanic community. Here are a few that stick out to us.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Master Your Craft?</title>
+        <link>localhost:4000/how-can-you-master-your-craft.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-08-22 13:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4</guid>
+        <description>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+Join RE/MAX Professionals
+
+Right now, my family and I are taking a trip up to Jackson Hole, Wyoming for the total solar eclipse. But today, I wanted to talk to you about something different—mastering your craft.
+
+When it comes to mastering your craft, one story that comes to mind for me is that of my mentor: Howard Brinton. When it comes to becoming a surgeon, mastering your craft is an absolute necessity. Between college, med school, and practicing on cadavers, a lot of time and hard work goes into it.
+
+But, there are many ways you can master your craft. When it comes to real estate, the 90 minutes it takes to get your license isn’t where the fine-tuning ends. In real estate, experience with real clients is the best way to master your craft.
+
+In fact, experience is a great way to hone your skills in any endeavor. As a kid, Kurt Warner, who was just inducted into the NFL Hall of Fame, would practice every single day. He continued this through high school, college, and beyond. Even still, success doesn’t always come that simply.
+
+Kurt was cut after being drafted by the Green Bay Packers. He didn’t make the team, but kept practicing anyway. After gaining even more experience through arena football and even playing in Europe, he was contacted by the St. Louis Rams. Then when he started playing with them, he took the team to the Super Bowl—and they won.
+
+No matter what your passion is, it will take a lot of time to master it. As a real estate agent, you can master your craft by practicing scripts, listing presentations, and buyer presentations. If you want to be great at what you do, you’ve got to practice daily.
+
+I want to help. If you’re looking to further yourself in your real estate career, I’d like to sit down with you and speak one-on-one about how you can master your craft.
+
+For me, becoming skilled at what I do is something I’ve always strived for. As a child my hero was Bruce Lee. Seeing his statue was one of the reasons I took my recent trip to Hong Kong. Bruce Lee has been an inspiration to me, and many of the things he’s said still resonate with me, today. One quote of his in particular stands out: “I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.”
+
+“EXPERIENCE WITH REAL CLIENTS IS THE BEST WAY TO MASTER YOUR CRAFT.”
+
+This is true not just of martial arts, but of any skill. To become truly masterful over what you do, you must put in a lot of time. As a real estate professional, there are a lot of events out there designed to help you master your craft.
+
+At RE/MAX Professionals, we have several events coming up, ourselves. For one, we offer two real estate classes, called Momentum, each week. Momentum is all about mastering the basics. To learn more about Momentum, click here.
+
+
+
+We’re also excited to announce that we will be hosting a special guest speaker, David Osborn, on November 2nd, 2017. David is going to share his story with us. After college, he took a year off to backpack around the world. After coming back to help his mom with her real estate endeavors, David now owns one of the nation’s largest real estate firms.
+
+Along with his story, David will also be speaking about his most recent book, “Wealth Can’t Wait.” On that note, we have exciting news. The first 200 people who sign up will receive a copy of David’s book on us. For more information about this event, click here. 
+
+
+
+If you’ve got any questions you’d like me to answer, send it in. If we use your question in one of our videos, I’ll send you out a $50 gift certificate.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+What does it take to master your craft? Today, I’ve got a few stories on this subject as well as a few opportunities you should know about that can help.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Statistics About Real Estate in the Valley</title>
+        <link>localhost:4000/statistics-about-real-estate-in-valley.html</link>
+        
+          <category>Valley of the Sun Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-07-12 14:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4</guid>
+        <description>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+Join RE/MAX Professionals
+
+There are almost 38,000 active licenses in the Valley today that are Realtors, plus additional non-Realtor licenses as well. There are over 4,200 real estate offices in the Valley.
+
+One interesting statistic that stands out to me is that 15% of active agents have left the business after just one year. That’s about 5,700 agents who no longer have a license.
+
+10% of agents, or about 3,800, are only in business for 24 to 36 months. After three years in the business, an additional 5% of the remaining agents leave. So once you’ve made it past four years in the business, you can expect to be doing pretty well.
+
+“ONCE YOU’VE MADE IT PAST FOUR YEARS, YOU CAN EXPECT TO BE DOING PRETTY WELL.”
+
+Throughout 2016, the number of homes sold in the Valley was 88,713. Given the current number of agents that are active, that’s only 2.36 homes per agent! Our agents at RE/MAX Professionals sell 10 times that average. Some of our agents have sold over 100 homes in the last year.
+
+So if you have any questions on how to become a better real estate agent, we offer free training to anyone interested. You don’t have to join our company, but we would love to see you come through. We’ve created a better business model that focuses on helping regular agents become legendary agents.
+
+If you have any questions about our free training, please give me a call or shoot me an email. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/July/Phoenix+Real+Estate+Agent-+Statistics+About+Real+Estate+in+the+Valley.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Today I have some interesting statistics about real estate agents in the Valley, and an opportunity for those Realtors who want to improve their numbers.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>7 Common Habits of Wealthy Individuals</title>
+        <link>localhost:4000/7-common-habits-of-wealthy-individuals.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-06-28 13:08:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Join RE/MAX Professionals
 
+Today’s topic is right out of the book “Wealth Can’t Wait” by David Osborn and Paul Morris. I know these gentlemen personally and was very excited to read their book. In it, I found a ton of helpful, useful information on creating wealth. One of the things that stuck out to me the most was the list of seven habits that create wealth.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+1. Live by design. Think about how you want your life to be and create a plan to get there.
 
+2. Make business decisions based on a solid foundation and solid fundamentals.
 
+3. Stick with what you know and drill in deep. Our wealth should be built through our biggest competency.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+4. Earn more by learning more. I probably go to more seminars than most Realtors, and I believe they have helped me immensely in my career. There’s always something new you can learn.
 
+“MY CONSTANT EDUCATION HAS HELPED ME IMMENSELY IN MY CAREER.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+5. Break down your big goals into smaller ones and add accountability.
 
-“This is an example of a pull quote”
+6. Spend less than you earn and invest the rest.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+7. Let go of the small stuff. We need to think and act bigger than that.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+This is just one of the many helpful passages I picked up by reading “Wealth Can’t Wait.” If you have any questions about the book, would like to discuss it further, or want to discuss your real estate career, give us a call or send us an email today. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:subtitle>
+
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Everyone’s life is a different journey. However, if you start forming these habits now, your journey will lead to wealth.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+      <item>
+        <title>3 Internet Companies That Are Interrupting the Market</title>
+        <link>localhost:4000/3-internet-companies-that-are.html</link>
+        
+          <category>Valley of the Sun Real Estate</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-06-12 10:41:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+Join RE/MAX Professionals
+
+Today I wanted to talk to you about three companies based solely online that are interrupting our real estate market in the Phoenix metro area.
+
+1. Open Door has been around for the last couple of years, and it’s a pretty fascinating company to say the least. I can tell you that they aren’t going away anytime soon. They have an extraordinary management team and are valued at $550 million. They have $110 million in cash equity to buy properties, and have in total $180 million to acquire properties and run this platform.
+
+I’m currently representing a buyer who is looking to purchase a home through this site and it’s been an interesting experience. As far as I know, Phoenix was one of their first test markets, and they seem to be successful so far.
+
+2. OfferPad is an online application that helps you sell your home quickly and efficiently. It was started by a local Realtor and a gentleman from Blackstone in 2005, and they have $260 million in debt acquisition money and $30 million in equity.
+
+Due to one of the founder’s developed business models, this company is expanding to multiple cities at a faster rate than Open Door. They’ve captured a 2% market share in the Phoenix metro area.
+
+3. Zillow is a well-known company that has seen a lot of controversy over their Zestimate feature. They also have an Instant Offer Program that is being tested in Las Vegas and Orlando. It’s set up for big investor pools to directly buy homes from homeowners.
+
+“THESE COMPANIES HAVE BEEN AROUND FOR A LONG TIME.”
+
+There’s been some play to keep the agent involved in these transactions, but I’m sure that at some point those parties will work to find a way around paying a commission to the agent.
+
+Both Open Door and OfferPad are buying houses and advertising their ease of use. They claim to take the pain out of selling your home, and their popularity speaks for itself. What’s interesting is that both those apps also charge a commission for acquisitions that sits between 6% and 10%, depending on the risk factor.
+
+These types of companies have been around for a long time in the direct investor-to-homeowner market. We’ve seen their yellow signs at street lights that say “I’ll buy your house for cash,” or something similar. We’re just now seeing the online model move forward.
+
+I’d love to have your opinion about these online real estate companies. Do you think they’re going to “Uber-ize” the market? Will there be less need for agents? Shoot me an email or leave a comment below with your thoughts.
+
+If you have any other questions about this or any other real estate topics, give me a call. I’d be happy to help!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You Practicing the Right Lead Response Strategies?</title>
+        <link>localhost:4000/are-you-practicing-right-lead-response.html</link>
+        
+          <category>Real Estate Coaching</category>
+        
+        <author>Nate Martinez</author>
+        <pubDate>2017-04-27 17:03:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4</guid>
+        <description>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+Join RE/MAX Professionals
+
+I’ve got some great information to share today that I recently came across. A study conducted by MIT and published in the Harvard Business Review examined a number of different factors relating to response times for lead management. They collected more than 15,000 Internet leads in a three-year period and reached out to more than 100,000 different people in order to find the best times for getting responses.
+
+Although every day is a good day to make contact, the study found that you have the best odds of reaching someone on either a Wednesday or a Thursday. There was a 49% difference between calling on Thursday versus calling on Tuesday.
+
+As for the best time to make contact, the best results were found within the 3:30 to 5:30 p.m. time period. The next best time to call would be between 8 p.m. and 9 a.m. The difference between calling at 1:00 p.m. versus calling at 4 p.m. is 164%.
+
+“YOU HAVE THE BEST ODDS OF CONVERTING LEADS WITHIN FIVE MINUTES OF CAPTURING THEM.”
+
+You’ve probably heard before that making contact with prospects is all about timeliness. In fact, you do have the greatest odds of converting leads within the first five minutes of capturing them. After that, the conversion percentage decreases by 10 times. You absolutely have to respond to these leads as soon as they come in. There is more than a 400% difference between responding within five minutes and responding within 10.
+
+Another thing this study showed was that persistence is key. When making calls, the likelihood of conversion increases greatly after about the sixth call. Continuing to call and being persistent with your leads is another simple way to ensure the success of your real estate business.
+
+If you have any other questions for me, don’t hesitate to give me a call or send me an email. If you’d just like to sit down and have a chat about your career, I’d be happy to help with that as well. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+</itunes:subtitle>
+        <itunes:author>Nate Martinez</itunes:author>
+        <itunes:summary>
+
+What are the best practices for prospecting? We’ve got a great study from MIT about this topic to share with you today.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Valley of the Sun, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Nate Martinez</copyright>
+    <media:credit role="author">Nate Martinez</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Professionals - your professional Valley of the Sun Real Estate Agents.</media:description>
   </channel>
 </rss>
