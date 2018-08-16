@@ -12,6 +12,11 @@ permalink: /join-our-team/
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+<br>
+<span class="client-image-container">
+<img src="/img/headshot2.jpg" alt="Sarah Michelle Bliss" class="client-image"/>
+</span>
+<figcaption class="caption">Sarah Michelle Bliss</figcaption>
 </div>
 
 <p>Dear Fellow Real Estate Agent,</p>
@@ -55,7 +60,7 @@ permalink: /join-our-team/
 
 <p>Regards,</p>
 
-<p>Nate Martinez & Sarah Bliss</p>
+<p>Nate Martinez & Sarah Michelle Bliss</p>
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
