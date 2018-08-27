@@ -25,7 +25,7 @@ youtube_code: pxcOu706OnY
 
 The latest numbers for our Phoenix metro real estate market are in, so let’s review them today.&nbsp;
 
-As of July, there were only 15,754 active listings on our residential market. This constitutes an 11.1% year-over-year decrease. Meanwhile, the number of pending listings also dropped—undergoing a 3.4% decrease from last year.&nbsp;
+As of July, there were only 15,754 active listings in our residential market. This constitutes an 11.1% year-over-year decrease. Meanwhile, the number of pending listings also dropped—undergoing a 3.4% decrease from last year.&nbsp;
 
 Monthly median sales prices, though, have risen 9.4% since July of 2017, for a current median sale price of $267,990.&nbsp;
 
