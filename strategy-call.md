@@ -20,9 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Nate Martinez and we've sold over 5000 homes year to date. </p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -40,14 +38,11 @@ permalink: /strategy-call/
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">"I have been with RE/MAX Professionals for 11 years, with a 2 year break when I joined another company. During that time, I realized how advanced in training, staff support and education RE/MAX Professionals truly is. Our company always excels in providing valuable tools for our own business growth, from how to use the RE/MAX brand to our benefit, to the weekly training courses, to keeping us updated on industry changes and developments. With an amazing full time staff and transaction coordinator services, we are able to sell more real estate successfully and efficiently. I love the internal support among the agents as well ~ we are happy to share our "secrets" with each other, giving advice and encouragement along the way. Joining (and returning to) RE/MAX Professionals is the best business decision I've ever made!"</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">"I work for RE/MAX Professionals because of the support and training they offer every agent, for free! I've taken every Momentum course and it's given me a solid foundation to grow my business the right way! They even have some free continuing education classes. The best thing is the people! All of our agents what everyone to succeed and they'll help you along the way."</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p class="quote">“Surround yourself with Successful People and You, Yourself, will be come Successful!" At RE/MAX Professionals, the owners and agents share their success ideas. They truly care. I came from a 25 year corporate background and have built a successful real estate career beyond what I thought was possible. I no longer think with limits. Success is yours if you put yourself in a place to grow. I could not imagine being anywhere else.”</p>
 </div>
 <hr>
 
@@ -68,7 +63,7 @@ permalink: /strategy-call/
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
 <p>Sincerely,</p>
-<p>{{site.data.settings.client.name}}</p>
+<p>Nate Martinez</p>
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
