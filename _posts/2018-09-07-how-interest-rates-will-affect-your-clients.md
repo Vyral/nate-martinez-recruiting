@@ -21,7 +21,7 @@ youtube_code: Hy9OlLW3n9w
 
 {% include youtube.html %}
 
-Interest rates are predicted to continue rising. Today I want to take a look at what it means for your clients.
+<p style="text-aliogn: center;"><em>Interest rates are predicted to continue rising. Today I want to take a look at what it means for your clients.</em></p>
 
 Today I want to take a minute to talk about a common topic in the real estate industry: interest rate predictions.
 
