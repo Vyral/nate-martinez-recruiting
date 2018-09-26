@@ -8,7 +8,7 @@ excerpt: >-
   Interest rates are predicted to continue rising. Today I want to take a look
   at what it means for your clients.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+interest+rates+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+interest+rates+9.26+(1).mp4
 pullquote: >-
   Now is the time to encourage your buyers and sellers to jump into the market
   before it is too late.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Hy9OlLW3n9w
+youtube_code: sDEcnd5d4Lo
 ---
 
 {% include youtube.html %}
@@ -34,3 +34,5 @@ With these interest rate changes, your clients' buying power will of course be a
 Since we believe that the interest rates are going to increase, now is the time to encourage your buyers and sellers to jump into the market before it is too late.
 
 If you have any questions, please feel free to reach out to me. I look forward to speaking with you soon.
+
+This communication is provided to you for informational purposes only and should not be relied upon by you. Nate Martinez nor RE/MAX Professionals are not mortgage lenders and so you should contact a qualified mortgage broker directly to learn more about its mortgage products and your eligibility for such products.
