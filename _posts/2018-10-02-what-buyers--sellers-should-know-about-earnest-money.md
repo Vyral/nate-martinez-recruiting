@@ -19,7 +19,7 @@ youtube_code: Lyhnr7eaBpY
 
 {% include youtube.html %}
 
-*What role the earnest money deposit plays in a real estate transaction impacts buyers and sellers in different ways.*
+<p style="text-align: center;"><em>What role the earnest money deposit plays in a real estate transaction impacts buyers and sellers in different ways.</em></p>
 
 In a real estate transaction, earnest money is a dollar amount that buyers put down as a deposit to show the seller that they’re sincere. What should buyers and sellers know specifically about this earnest money deposit, though?
 
