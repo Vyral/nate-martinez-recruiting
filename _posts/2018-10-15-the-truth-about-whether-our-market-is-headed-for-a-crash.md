@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Truth About Whether Our Market is Headed for a Crash
+title: The Truth About Whether Our Market Is Headed for a Crash
 date: 2018-10-15 20:16:52
 tags:
 excerpt: Are we headed for a crash? Let’s discuss this crucial question.
