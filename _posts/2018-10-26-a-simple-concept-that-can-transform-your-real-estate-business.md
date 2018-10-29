@@ -21,7 +21,7 @@ youtube_code: fdf_FcH2HCE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What if I told you that you could increase your business just by remembering “3, 2, 1?”. Here’s what I mean.</em></p>
+<p style="text-align: center;"><em>What if I told you that you could increase your business just by remembering “3, 2, 1?” Here’s what I mean.</em></p>
 
 I’ve got a great tip for all of you agents out there today. **It’s a simple way to communicate with 1,250 people over the next 12 months.&nbsp;**
 
