@@ -8,7 +8,7 @@ excerpt: >-
   What if I told you that you could increase your business just by remembering
   “3, 2, 1?”. Here’s what I mean.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+321+10.8.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+321+11.6.mp4
 pullquote: >-
   Calling three people per day will result in an additional 1,250 touches per
   year.
