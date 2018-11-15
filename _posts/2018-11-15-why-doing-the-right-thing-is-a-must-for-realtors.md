@@ -19,7 +19,7 @@ youtube_code: nQD9x5ru8dA
 
 {% include youtube.html %}
 
-Are you following your ethical responsibility as a Realtor to do the right thing? Today, we’ll discuss why this is important and what it entails.
+<p style="text-align: center;"><em>Are you following your ethical responsibility as a Realtor to do the right thing? Today, we’ll discuss why this is important and what it entails.</em></p>
 
 Over the past few months, ethical concerns have been top-of-mind for Phoenix buyers, sellers, and homeowners. As a Realtor, myself, **I have noticed the rise of a few problematic trends within the industry.&nbsp;**
 
