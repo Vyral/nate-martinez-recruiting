@@ -8,13 +8,13 @@ excerpt: >-
   Are you following your ethical responsibility as a Realtor to do the right
   thing? Today, we’ll discuss why this is important and what it entails.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+Doing+The+Right+Thing.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+doing+the+right+thing+11.19.mp4
 pullquote: Each choice you make will shape the way our industry is viewed as a whole.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nQD9x5ru8dA
+youtube_code: OpOPtffGpgg
 ---
 
 {% include youtube.html %}
