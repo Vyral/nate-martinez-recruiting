@@ -21,7 +21,7 @@ youtube_code: ewvzOwSkfS0
 
 {% include youtube.html %}
 
-Following the success cycle can help you accomplish the big goals you’ve set for 2019.
+<p style="text-align: center;"><em>Following the success cycle can help you accomplish the big goals you’ve set for 2019.</em></p>
 
 I recently attended a Tony Robbins event, and one of the powerful topics he covered was the **success cycle.** To help you find more success in your own real estate endeavors, I’ll be sharing Tony’s success cycle with you today.
 
