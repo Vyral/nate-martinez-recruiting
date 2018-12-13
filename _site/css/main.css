@@ -1356,7 +1356,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: black;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 20px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1369,6 +1369,9 @@ html[xmlns] .flexslider .slides {
   .navbar-left > li > a:focus {
     text-decoration: none;
     color: #DC1C2E; }
+
+.nav > li > a {
+  padding: 10px 15px; }
 
 .cta {
   background: transparent;
