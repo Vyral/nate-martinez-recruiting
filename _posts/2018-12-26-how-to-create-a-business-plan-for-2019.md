@@ -19,7 +19,7 @@ youtube_code: 7e8AIZuoZBg
 
 {% include youtube.html %}
 
-Creating a business plan will ensure you meet your goals. Here’s how.
+<p style="text-align: center;"><em>Creating a business plan will ensure you meet your goals. Here’s how.</em></p>
 
 I’ve talked before about the success cycle, and today we’ll be using an aspect of that cycle in our discussion on business plans: clarity. Clarity helps you know exactly what goals you want to achieve, **and creating a business plan is the best way to achieve your goals.**
 
