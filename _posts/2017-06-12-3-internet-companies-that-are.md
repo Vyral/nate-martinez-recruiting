@@ -1,8 +1,8 @@
 ---
 youtube_code: pi9spSu-TYE
-excerpt:
+excerpt: Property acquisition companies have been around for a long time in our market, but we are just now starting to see more online-only companies. Today, I’ve listed three of the most popular.
 enclosure:
-pullquote: THESE COMPANIES HAVE BEEN AROUND FOR A LONG TIME.
+pullquote: These companies have been around for a long time.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,8 @@ title: 3 Internet Companies That Are Interrupting the Market
 date: '2017-06-12T08:41:00.000-07:00'
 author: Vyral Admin
 tags:
-- Valley of the Sun Real Estate
+- Lead Generation
+- Lead Conversion
 modified_time: '2017-06-12T10:01:18.251-07:00'
 thumbnail: https://i.ytimg.com/vi/pi9spSu-TYE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-6248700079737882685
