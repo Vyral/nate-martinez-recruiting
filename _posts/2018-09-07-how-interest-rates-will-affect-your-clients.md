@@ -3,7 +3,7 @@ layout: post
 title: How Interest Rates Will Affect Your Clients
 date: 2018-09-07 16:53:09
 tags:
-  - Buyer Prospects
+  - Buyer Presentations
 excerpt: >-
   Interest rates are predicted to continue rising. Today I want to take a look
   at what it means for your clients.
