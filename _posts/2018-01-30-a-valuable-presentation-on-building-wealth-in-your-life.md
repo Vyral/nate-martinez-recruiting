@@ -3,7 +3,9 @@ layout: post
 title: A Valuable Presentation on Building Wealth in Your Life
 date: 2018-01-30 15:57:55
 tags:
-  - Real Estate
+  - Transaction Management
+  - Lead Generation
+  - Reviews and Referral System
 excerpt: >-
   I’ve got a special opportunity to share with you today. If you weren’t able to
   see David Osborn’s presentation a few months ago on how to build wealth in
