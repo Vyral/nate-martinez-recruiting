@@ -2,7 +2,7 @@
 youtube_code: BZ0vJMniVo4
 excerpt:
 enclosure:
-pullquote: MY CONSTANT EDUCATION HAS HELPED ME IMMENSELY IN MY CAREER.
+pullquote: My constant education has helped me immensely in my career.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,9 @@ title: 7 Common Habits of Wealthy Individuals
 date: '2017-06-28T11:08:00.000-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Coaching
+- Lead Generation
+- Transaction Management
+- Reviews and Referral System
 modified_time: '2017-06-29T08:24:14.313-07:00'
 thumbnail: https://i.ytimg.com/vi/BZ0vJMniVo4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-1086796694512582499
