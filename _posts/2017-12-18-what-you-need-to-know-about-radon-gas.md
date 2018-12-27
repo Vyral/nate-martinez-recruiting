@@ -3,7 +3,8 @@ layout: post
 title: What You Need to Know About Radon Gas
 date: 2017-12-18 13:27:00
 tags:
-  - Real Estate
+  - Buyer Presentations
+  - Listing Presentations
 excerpt: >-
   Why should you order a radon test when buying a home? I’ll go over a few
   reasons today.
