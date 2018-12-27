@@ -3,7 +3,9 @@ layout: post
 title: Don’t Skip These 14 Activities Every Real Estate Agent Should Master
 date: 2017-11-10 12:08:55
 tags:
-  - Real Estate
+  - Lead Generation
+  - Buyer Presentations
+  - Listing Presentations
 excerpt: >-
   Every real estate agent needs to do 14 activities in order to be successful.
   I’ll cover the first seven for you today.
