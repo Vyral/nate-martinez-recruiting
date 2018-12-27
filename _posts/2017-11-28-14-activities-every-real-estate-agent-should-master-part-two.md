@@ -3,7 +3,9 @@ layout: post
 title: '14 Activities Every Real Estate Agent Should Master: Part Two'
 date: 2017-11-28 13:45:55
 tags:
-  - Real Estate
+  - Lead Generation
+  - Lead Conversion
+  - Transaction Management
 excerpt: >-
   I’m back with the last seven activities that every real estate agent needs to
   do. The first seven focused on listings, so today, we’ll focus on homebuyers.
