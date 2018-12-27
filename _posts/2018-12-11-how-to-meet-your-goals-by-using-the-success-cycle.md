@@ -3,7 +3,9 @@ layout: post
 title: How to Meet Your Goals by Using the Success Cycle
 date: 2018-12-11 21:31:46
 tags:
-  - Planning
+  - Lead Generation
+  - Lead Conversion
+  - Transaction Management
 excerpt: >-
   Following the success cycle can help you accomplish the big goals you’ve set
   for 2019.
