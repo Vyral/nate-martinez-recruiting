@@ -3,7 +3,7 @@ layout: post
 title: How to Create a Business Plan for 2019
 date: 2018-12-26 01:00:00
 tags:
-  - Business Building
+  - Reviews and Referral System
 excerpt: Creating a business plan will ensure you meet your goals. Here’s how.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+2019+Business+Planning.mp4
