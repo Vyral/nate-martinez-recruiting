@@ -2,7 +2,7 @@
 youtube_code: JXGvxxy-YUg
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/August/Phoenix+Real+Estate+Agent-+How+Can+You+Master+Your+Craft%253F.mp4
-pullquote: EXPERIENCE WITH REAL CLIENTS IS THE BEST WAY TO MASTER YOUR CRAFT.
+pullquote: Experience with real clients is the best way to master your craft.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,9 @@ title: How Can You Master Your Craft?
 date: '2017-08-22T11:31:00.000-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Coaching
+- Lead Generation
+- Transaction Management
+- Reviews and Referral System
 modified_time: '2017-08-22T13:45:56.382-07:00'
 thumbnail: https://i.ytimg.com/vi/JXGvxxy-YUg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-1657882764339351902
