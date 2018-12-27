@@ -2,7 +2,7 @@
 youtube_code: TZ51hnsctPg
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Did+You+Sell+Any+of+the+14%252C904+Homes+Yesterday%253F.mp4
-pullquote: THERE ARE AT LEAST 26,000 REALTORS WHO DON’T SELL A HOME EACH MONTH.
+pullquote: There are at least 26,000 realtors who don't sell a home each month.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,8 @@ title: Did You Sell Any of the 14,904 Homes Yesterday?
 date: '2017-09-26T08:31:00.001-07:00'
 author: Vyral Admin
 tags:
-- Valley of the Sun Real Estate
+- Lead Generation
+- Reviews and Referral System
 modified_time: '2017-09-27T13:26:24.702-07:00'
 thumbnail: https://i.ytimg.com/vi/TZ51hnsctPg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-2826796061054039304
