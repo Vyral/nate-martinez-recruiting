@@ -3,7 +3,8 @@ layout: post
 title: How Can You Beat the Competition in This Scorching Hot Market?
 date: 2018-02-19 20:36:00
 tags:
-  - Real Estate
+  - Listing Presentations
+  - Buyer Presentations
 excerpt: >-
   How can you win in a multiple offer situation in this red-hot seller’s market?
   I have an idea that could help you succeed.
