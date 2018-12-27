@@ -3,7 +3,7 @@ layout: post
 title: Nate Martinez's Journey Through Real Estate
 date: 2018-11-13 20:38:00
 tags:
-  - Reviews and Referrals
+  - Reviews and Referral System
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+Nate+Martinez%2527s+Journey+Through+Real+Estate.mp4
