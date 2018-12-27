@@ -2,7 +2,7 @@
 youtube_code: t3CE3gfdNSk
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+Prospecting+by+the+Numbers.mp4
-pullquote: YOU HAVE THE BEST ODDS OF CONVERTING LEADS WITHIN FIVE MINUTES OF CAPTURING THEM.
+pullquote: You have the best odds of converting leads within five minutes of capturing them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,7 @@ title: Are You Practicing the Right Lead Response Strategies?
 date: '2017-04-27T15:03:00.001-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Coaching
+- Lead Conversion
 modified_time: '2017-05-04T10:41:55.922-07:00'
 thumbnail: https://i.ytimg.com/vi/t3CE3gfdNSk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-5349045366611830162
