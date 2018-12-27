@@ -3,7 +3,8 @@ layout: post
 title: 'Agents: It''s Time to Find out What''s Happening in Our Market'
 date: 2018-08-24 21:37:36
 tags:
-  - Market Update
+  - Buyer Presentations
+  - Listing Presentations
 excerpt: >-
   What’s going on right now in our Phoenix area real estate market? Let’s
   examine the latest numbers and find out.
