@@ -3,7 +3,9 @@ layout: post
 title: How to Level Up Your Real Estate Business
 date: 2018-03-16 20:19:14
 tags:
-  - Real Estate
+  - Lead Generation
+  - Lead Conversion
+  - Transaction Management
 excerpt: >-
   I’m excited for you to hear about our upcoming real estate business class.
   Here’s how we’re going to help agents take their careers to the next level.
