@@ -3,7 +3,8 @@ layout: post
 title: The Phoenix Real Estate Market Is Hot
 date: 2018-03-30 15:45:00
 tags:
-  - Market Update
+  - Buyer Presentations
+  - Listing Presentations
 excerpt: >-
   What’s going on in the Phoenix real estate market? Here’s what you need to
   know.
