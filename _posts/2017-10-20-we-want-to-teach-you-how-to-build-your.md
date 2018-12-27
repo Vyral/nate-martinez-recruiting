@@ -2,7 +2,7 @@
 youtube_code: 5ebEUOMEZbo
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Phoenix+Real+Estate+Agent-+We+Want+to+Teach+You+How+to+Build+Your+Wealth.mp4
-pullquote: WE’RE GIVING AWAY ALL OF OUR STRATEGIES AND SYSTEMS SO YOU CAN BUILD A PROFITABLE BUSINESS.
+pullquote: We're giving away all of our strategies and systems so you can build a profitable business.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,9 @@ title: We Want to Teach You How to Build Your Wealth
 date: '2017-10-20T10:38:00.002-07:00'
 author: Vyral Admin
 tags:
-- Real Estate Coaching
+- Lead Generation
+- Transaction Management
+- Reviews and Referral System
 modified_time: '2017-10-23T10:25:11.675-07:00'
 thumbnail: https://i.ytimg.com/vi/5ebEUOMEZbo/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-5327409759831074513
