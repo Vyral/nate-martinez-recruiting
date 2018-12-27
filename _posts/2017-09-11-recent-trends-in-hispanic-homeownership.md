@@ -2,7 +2,7 @@
 youtube_code: kle6pxzdoLA
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2017/September/Phoenix+Real+Estate+Agent-+Recent+Trends+in+Hispanic+Homeownership.mp4
-pullquote: HISPANIC HOMEOWNERSHIP IS AT AN ALL-TIME HIGH.
+pullquote: Hispanic homeownership is at an all-time high.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -12,7 +12,7 @@ title: Recent Trends in Hispanic Homeownership
 date: '2017-09-11T13:43:00.002-07:00'
 author: Vyral Admin
 tags:
-- Valley of the Sun Real Estate
+- Transaction Management
 modified_time: '2017-09-13T14:27:45.754-07:00'
 thumbnail: https://i.ytimg.com/vi/kle6pxzdoLA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-5664547674943505314.post-3384807797769766866
