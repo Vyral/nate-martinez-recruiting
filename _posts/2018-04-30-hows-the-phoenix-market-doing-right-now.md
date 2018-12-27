@@ -3,7 +3,8 @@ layout: post
 title: How’s the Phoenix Market Doing Right Now?
 date: 2018-04-30 00:00:00
 tags:
-  - Market Update
+  - Buyer Presentations
+  - Listing Presentations
 excerpt: >-
   Phoenix real estate is doing extremely well right now. Here’s what the latest
   numbers are telling us.
