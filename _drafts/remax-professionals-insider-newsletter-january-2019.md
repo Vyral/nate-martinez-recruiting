@@ -17,4 +17,8 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-![](/uploads/remax-professionals-insider-newsletter-january-2019.jpg)
+![](/uploads/remax-professionals-insider-newsletter-january-2019-1.jpg)
+
+&nbsp;
+
+&nbsp;
