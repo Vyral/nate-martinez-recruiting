@@ -17,9 +17,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-**Nate’s Monday Morning Message**
-
-Welcome to this week’s Monday Morning Message…it’s the last day of 2018, which means there is still a small window of time to mark off your list, hit that final goal or connect with a long-lost friend or family member. As we close the chapter on another year, I wanted to share the lyrics to Elton John’s song The Circle of Life, which is perfect timing for today’s message. Let's welcome the New Year by celebrating the circle... and miracle of life! Let’s make it a great week!
+Welcome to this week’s Monday Morning Message…it’s the last day of 2018, which means there is still a small window of time to mark off your list, hit that final goal or connect with a long-lost friend or family member. As we close the chapter on another year, I wanted to share the lyrics to Elton John’s song The Circle of Life, which is perfect timing for today’s message. Let's welcome the New Year by celebrating the circle… and miracle of life! Let’s make it a great week!![](/uploads/181226-newyear-fbgraphic-v1.png)
 
 **ENCOURAGEMENT CORNER**
 
