@@ -4,7 +4,6 @@ title: Nate's Monday Morning Message
 tags:
   - Nate Martinez
   - Nate's Monday Morning Message
-  - RE/MAX Professionals
   - Arizona
   - Real Estate
 excerpt:
