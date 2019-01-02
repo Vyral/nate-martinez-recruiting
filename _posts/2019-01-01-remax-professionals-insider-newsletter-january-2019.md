@@ -34,5 +34,3 @@ youtube_code:
 ![](/uploads/remax-professionals-insider-newsletter-january-2019-page-8.jpg)
 
 RE/MAX Professionals<br>20241 N 67th Ave, Suite A1<br>Glendale, Arizona 85308<br>623-362-3000
-
-&nbsp;
