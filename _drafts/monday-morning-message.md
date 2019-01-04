@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monday Morning Message
-date: 2019-01-01 00:00:00
+date: 2019-01-07 00:00:00
 tags:
   - Nate's Monday Morning Message
   - Nate Martinez
