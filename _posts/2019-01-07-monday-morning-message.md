@@ -17,7 +17,9 @@ youtube_alternate_image: /uploads/Nates Monday Morning Message 2018.png
 youtube_code:
 ---
 
-![](/uploads/181219-natemondaymessage-v1.png)Welcome to the first Monday Morning Message on 2019! Let’s talk about resolutions and what is important for the New Year. Have you taken time to really think about what it is that you truly desire? How did you get to where you are today? The vast majority of people wake-up every day and go through the motions of what they have to do, and not necessarily what they want to do.
+![](/uploads/181219-natemondaymessage-v1.png)
+
+Welcome to the first Monday Morning Message on 2019! Let’s talk about resolutions and what is important for the New Year. Have you taken time to really think about what it is that you truly desire? How did you get to where you are today? The vast majority of people wake-up every day and go through the motions of what they have to do, and not necessarily what they want to do.
 
 I would like to challenge you this year to live a more purposeful life; to be conscious of all the decisions you make (or don’t make). The only difference between you and the those who are living life on purpose is how you decide to spend your time. Let us resolve for 2019, to put the things that matter most, first. Let us resolve today that we will not let another week, or another year, go by without us taking full control and responsibility for all of our actions. Let’s make it a great week!
 
