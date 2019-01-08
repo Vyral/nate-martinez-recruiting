@@ -15,6 +15,8 @@ youtube_code:
 
 Congratulations to our top ten sales associates and teams for their outstanding production in December 2018.&nbsp;
 
-![](/uploads/190108-top10-dec18-v1.jpg)
+![](/uploads/190108-top10-dec18-v1.png)
+
+&nbsp;
 
 RE/MAX Professionals<br>623-362-3000
