@@ -9,13 +9,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/190108-top10-dec18-v1.jpg
+youtube_alternate_image:
 youtube_code:
 ---
 
 Congratulations to our top ten sales associates and teams for their outstanding production in December 2018.&nbsp;
 
-![](/uploads/190108-top10-dec18-v1.png)
+&nbsp;
 
 &nbsp;
 
