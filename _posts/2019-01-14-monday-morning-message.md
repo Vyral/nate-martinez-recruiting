@@ -31,23 +31,23 @@ Successful people do the things that they need to do to produce the results ever
 
 Focus: The 5%/95% Rule
 
-Focus 5% on what you fear 95% on getting educated and skilled to face it.&nbsp;&nbsp;
+Focus 5% on what you fear 95% on getting educated and skilled to face it.  
 
-Focus 5% on the problem 95% on the healthiest solution.&nbsp;&nbsp;
+Focus 5% on the problem 95% on the healthiest solution.  
 
-Focus 5% on the mistake 95% on learning from it.&nbsp;&nbsp;
+Focus 5% on the mistake 95% on learning from it.  
 
-Focus 5% on who to blame 95% on making sure to heal.&nbsp;&nbsp;
+Focus 5% on who to blame 95% on making sure to heal.  
 
-Focus 5% on what you must do 95% on enjoying the process of it.&nbsp;&nbsp;
+Focus 5% on what you must do 95% on enjoying the process of it.  
 
-Focus 5% on the conflict 95% on the win-win-win resolution.&nbsp;&nbsp;
+Focus 5% on the conflict 95% on the win-win-win resolution.  
 
-Focus 5% on what you can't control 95% on what you do have control over.&nbsp;&nbsp;
+Focus 5% on what you can't control 95% on what you do have control over.  
 
-Focus 5% on what others say 95% on what you believe.&nbsp;&nbsp;
+Focus 5% on what others say 95% on what you believe.  
 
-Focus 5% on what you have 95% on what you want to have.&nbsp;&nbsp;
+Focus 5% on what you have 95% on what you want to have.  
 
 Focus 5% on reading this 95% on applying it.
 
