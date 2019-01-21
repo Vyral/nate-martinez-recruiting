@@ -3,18 +3,13 @@ layout: post
 title: Nate's Monday Morning Message 1.21.19
 date: 2019-01-21 00:00:00
 tags:
-  - Nate's Monday Morning Message
-  - Nate Martinez
-  - Arizona
-  - Real Estate
-  - Realtor
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Nate Monday Morning Message 1.21.19.png
 youtube_code:
 ---
 
@@ -50,6 +45,6 @@ I have a dream that one day every valley shall be exhalted, every hill and mount
 
 “Faith is taking the first step even when you don't see the whole staircase.” - Martin Luther King, Jr.
 
-“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” - Martin Luther King, Jr.<br>&nbsp;
+“The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.” - Martin Luther King, Jr.<br> 
 
 Nate Martinez, RE/MAX Professionals<br>www.NatesHomes.com<br>www.NatesLuxuryHomes.com<br>602-430-5226<br>Nate@NatesHomes.com
