@@ -15,6 +15,6 @@ youtube_code:
 
 Please help us welcome William Collins to RE/MAX Professionals. He will be working out of our Avondale, Arizona office location. Welcome William!
 
-![](/uploads/190123-welcomeaboard-wcollins-v2-1.png)![](/uploads/190123-welcomeaboard-wcollins-v2.png)
+![](/uploads/190123-welcomeaboard-wcollins-v2.png)
 
 RE/MAX Professionals<br>623-362-3000
