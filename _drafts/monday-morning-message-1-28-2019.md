@@ -33,4 +33,6 @@ One song can spark a moment,<br>One flower can wake the dream.<br>One tree can s
 
 “To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.” - Buddha
 
+**PS You are invited to a 3 hour Business Planning Event I am hosting on Tuesday, February 12th from 3:30-6:30pm. Come for the tacos and margaritas and kick start your 2019 selling season! [Click here](https://tinyurl.com/y7kh7pqr){: target="_blank"} to save your seat today!**
+
 Nate Martinez, RE/MAX Professionals<br>www.NatesHomes.com<br>www.NatesLuxuryHomes.com<br>602-430-5226<br>Nate@NatesHomes.com
