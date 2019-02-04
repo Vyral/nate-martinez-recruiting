@@ -21,7 +21,7 @@ Welcome to this edition of Nate's Monday Message! The weather has been a little 
 
 Are you prepared to make the most out of this week? Are you organized; determined; motivated; and just all around ready to succeed? Take a few minutes today to sit quietly and gather your thoughts. What are the five things you must do this week to be a success? What are the five things you must not do this week to be a success? Write them down and keep them with you. We must be prepared to succeed. Let’s make it a great week!
 
-ENCOURAGEMENT CORNER
+**ENCOURAGEMENT CORNER**
 
 Everything Happens for The Good&nbsp;&nbsp;
 
@@ -29,7 +29,7 @@ There was once a King who had a wise adviser. The adviser followed the King ever
 
 The King later went on a hunting trip, this time without the adviser. The King was then captured by some cannibals. He was taken to the cannibals' camp where he was to be the evening meal for the cannibals. Before putting him into the cooking pot he was thoroughly inspected. The cannibals saw the wound on the King's foot and decided to throw him back into the jungle. According to the cannibals' tradition, they would not eat anything that was imperfect. As a result, the King was spared. The King suddenly realized what his adviser said was true. The adviser also escaped death because had he not been in prison, he would have followed the King on the hunting trip and would have ended up in the cooking pot.&nbsp;
 
-WORDS OF INSPIRATION
+**WORDS OF INSPIRATION**
 
 “The roots of all goodness lie in the soil of appreciation for goodness.” - Dalai Lama
 
