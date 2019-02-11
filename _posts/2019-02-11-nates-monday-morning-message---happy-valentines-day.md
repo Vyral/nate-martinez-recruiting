@@ -13,6 +13,8 @@ youtube_alternate_image: /uploads/nates monday morning message happy valentines 
 youtube_code:
 ---
 
+![](/uploads/nates-monday-morning-message-happy-valentines-day.png)
+
 Welcome to this edition of Nate's Monday Message…Love is in the air as the day for lovers is just around the corner! Whether you are in a committed relationship, or still search for the “one” Valentine’s Day is a day to celebrate what love truly means. It isn’t about the flowers or the chocolates, but more importantly about an expression of our emotions for those we hold near and dear, beyond a romantic relationship. I hope you will take a moment this week to say “I love you” to those who need to hear. I want to wish each of you reading this email a very happy Valentine’s Day! Let’s make it a great week!
 
 **ENCOURAGEMENT CORNER**
