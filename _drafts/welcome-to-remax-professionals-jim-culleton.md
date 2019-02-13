@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to RE/MAX Professionals Jim Culleton
-date:
+date: 2019-02-13 00:00:00
 tags:
 excerpt:
 enclosure:
@@ -12,6 +12,11 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
 
-{% include pullquote.html %}
+**Welcome to RE/MAX Professionals Jim Culleton**
+
+Please help us welcome Jim to our Arrowhead North office location!
+
+![](/uploads/190211-welcomeaboard-jculleton-v2.png)
+
+RE/MAX Professionals<br>623-362-3000<br>consult@rmxprofessionals.com
