@@ -31,7 +31,7 @@ Looking at my 2018 tracker, I notice that we had 213 leads come in, 45 of which 
 
 {% include pullquote.html %}
 
-By tracking our leads, **I’ve found that we’re able to save money and/or move our money away from something that isn’t giving us the conversion we’re looking for and put it towards something with a higher conversion.** Last year, we underwent ten months of parallel tracking for two different high-cost marketing for internet leads.&nbsp;
+By tracking our leads, **I’ve found that we’re able to save money and/or move our money away from something that isn’t giving us the conversion we’re looking for and put it towards something with a higher conversion.** Last year, we underwent 10 months of parallel tracking for two different high-cost marketing for internet leads.&nbsp;
 
 For example, after tracking Zillow and a pay-per-click service, we found that one of those was producing three times the amount of revenue as the other. **Because we could see that, we stopped paying money for one and then doubled down on the one that was working.** Don’t be afraid to stop investing in something that isn’t working because you’re afraid of losing a possible lead that will come in. Knowing exactly how much return you get on your leads and their sources is vital, no matter if you’re running a team or if you’re working as an individual.
 
@@ -46,4 +46,4 @@ Here are some other interesting facts our tracker also tells me about our 2018 b
 
 At the end of the day, we know exactly where all our leads are coming from. **I challenge you to start tracking each and every one of your own leads so that you can identify which sources are worth investing in.**
 
-If you have any questions about lead-tracking, feel free to reach out to me. I’d be happy to speak with you.
+If you have any questions about lead tracking, feel free to reach out to me. I’d be happy to speak with you.
