@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/nates monday morning message happy valentines day.png
 youtube_code:
 ---
@@ -19,7 +19,7 @@ Welcome to this edition of Nate's Monday Message…Love is in the air as the day
 
 **ENCOURAGEMENT CORNER**
 
-A Valentine<br>Poet: Catherine Pulsifer, &copy; 2016&nbsp;<br><br>Let me say this Valentines quote<br>Is one that I wish I wrote&nbsp;<br>It tells of love that is so deep<br>It is one that I will always keep.<br>It reminds me so much of you<br>I will read it over when I'm blue.<br>It was written by John McLeod,<br>And I would encourage you to read aloud:<br>"Love much dear friends for love will bring<br>the healing joy and hope of Spring."&nbsp;
+A Valentine<br>Poet: Catherine Pulsifer, © 2016 <br><br>Let me say this Valentines quote<br>Is one that I wish I wrote <br>It tells of love that is so deep<br>It is one that I will always keep.<br>It reminds me so much of you<br>I will read it over when I'm blue.<br>It was written by John McLeod,<br>And I would encourage you to read aloud:<br>"Love much dear friends for love will bring<br>the healing joy and hope of Spring." 
 
 **WORDS OF INSPIRATION**
 
@@ -33,6 +33,6 @@ A Valentine<br>Poet: Catherine Pulsifer, &copy; 2016&nbsp;<br><br>Let me say thi
 
 “We are most alive when we're in love.” - John Updike
 
-**P.S. You are invited to a special 3-hour Business Planning Workshop that I am hosting tomorrow, February 12th from 3:30pm to 6:30pm. Tacos and margaritas included! Click here to secure your seat.&nbsp;**
+**P.S. You are invited to a special 3-hour Business Planning Workshop that I am hosting tomorrow, February 12th from 3:30pm to 6:30pm. Tacos and margaritas included! Click here to secure your seat. **
 
 Nate Martinez, RE/MAX Professionals<br>consult@rmxprofessionals.com<br>623-362-3000
