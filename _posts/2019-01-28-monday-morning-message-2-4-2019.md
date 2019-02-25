@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/181219-natemondaymessage-v1.png
 youtube_code:
 ---
@@ -23,11 +23,11 @@ Are you prepared to make the most out of this week? Are you organized; determine
 
 **ENCOURAGEMENT CORNER**
 
-Everything Happens for The Good&nbsp;&nbsp;
+Everything Happens for The Good  
 
-There was once a King who had a wise adviser. The adviser followed the King everywhere, and his favorite advice was, "everything happens for the good." One day the King went hunting and had a little accident. He shot an arrow at his own foot and was injured. He asked the adviser what he thought about the accident, to which the adviser replied, "Everything happens for the good." This time the King was really upset and ordered for his adviser to be put in prison. The King asked his adviser, "Now, what do you think?" The adviser again replied, "Everything happens for the good." So, the adviser remained in prison.&nbsp;
+There was once a King who had a wise adviser. The adviser followed the King everywhere, and his favorite advice was, "everything happens for the good." One day the King went hunting and had a little accident. He shot an arrow at his own foot and was injured. He asked the adviser what he thought about the accident, to which the adviser replied, "Everything happens for the good." This time the King was really upset and ordered for his adviser to be put in prison. The King asked his adviser, "Now, what do you think?" The adviser again replied, "Everything happens for the good." So, the adviser remained in prison. 
 
-The King later went on a hunting trip, this time without the adviser. The King was then captured by some cannibals. He was taken to the cannibals' camp where he was to be the evening meal for the cannibals. Before putting him into the cooking pot he was thoroughly inspected. The cannibals saw the wound on the King's foot and decided to throw him back into the jungle. According to the cannibals' tradition, they would not eat anything that was imperfect. As a result, the King was spared. The King suddenly realized what his adviser said was true. The adviser also escaped death because had he not been in prison, he would have followed the King on the hunting trip and would have ended up in the cooking pot.&nbsp;
+The King later went on a hunting trip, this time without the adviser. The King was then captured by some cannibals. He was taken to the cannibals' camp where he was to be the evening meal for the cannibals. Before putting him into the cooking pot he was thoroughly inspected. The cannibals saw the wound on the King's foot and decided to throw him back into the jungle. According to the cannibals' tradition, they would not eat anything that was imperfect. As a result, the King was spared. The King suddenly realized what his adviser said was true. The adviser also escaped death because had he not been in prison, he would have followed the King on the hunting trip and would have ended up in the cooking pot. 
 
 **WORDS OF INSPIRATION**
 
