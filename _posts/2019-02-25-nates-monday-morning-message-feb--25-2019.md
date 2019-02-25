@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/181219-natemondaymessage-v1-2.png
 youtube_code:
 ---
@@ -21,11 +21,11 @@ Welcome to this edition of Nate's Monday Message! Are you prepared for the succe
 
 **ENCOURAGEMENT CORNER**
 
-Just BE THANKFUL&nbsp;
+Just BE THANKFUL 
 
-Be thankful that you don't already have everything you desire. If you did, what would there be to look forward to? Be thankful when you don't know something, for it gives you the opportunity to learn new things. Be thankful for the difficult times. Those are the times you grow. Be thankful for your limitations, because they give you opportunities for improvement. Be thankful for your mistakes. They will teach you valuable lessons for the future.&nbsp;
+Be thankful that you don't already have everything you desire. If you did, what would there be to look forward to? Be thankful when you don't know something, for it gives you the opportunity to learn new things. Be thankful for the difficult times. Those are the times you grow. Be thankful for your limitations, because they give you opportunities for improvement. Be thankful for your mistakes. They will teach you valuable lessons for the future. 
 
-Be thankful when you are tired and weary, because it means you've made a difference. It’s easy to be thankful for the good things. A life of rich fulfillment comes to those who are also thankful for the setbacks and bumpy times. Find a way to be thankful for your troubles, and they can become your blessings.&nbsp;
+Be thankful when you are tired and weary, because it means you've made a difference. It’s easy to be thankful for the good things. A life of rich fulfillment comes to those who are also thankful for the setbacks and bumpy times. Find a way to be thankful for your troubles, and they can become your blessings. 
 
 **WORDS OF INSPIRATION**
 
