@@ -1,17 +1,19 @@
 ---
 layout: post
 title: 'Nate''s Monday Morning Message March 4, 2019'
-date:
+date: 2019-03-04 00:00:00
 tags:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/181219-natemondaymessage-v1-5.png
 youtube_code:
 ---
+
+![](/uploads/181219-natemondaymessage-v1-5.png)
 
 **Nate’s Monday Morning Message**
 
@@ -35,4 +37,4 @@ Moral of the story: More than 90 percent of the people that we face every day ar
 
 “Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.” - Melody Beattie
 
-Nate Martinez, RE/MAX Professionals[www.NatesHomes.com](http://www.nateshomes.com/){: target="_blank"}[www.NatesLuxuryHomes.com](http://www.natesluxuryhomes.com/){: target="_blank"}[602-430-5226](http://www.nateshomes.com/callto:+1602-430-5226)[Nate@NatesHomes.com](mailto:Nate@NatesHomes.com){: target="_blank"}
+Nate Martinez, RE/MAX Professionals<br>623-362-3000<br>consult@rmxprofessionals.com
