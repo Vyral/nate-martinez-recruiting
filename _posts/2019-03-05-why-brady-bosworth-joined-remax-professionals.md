@@ -19,7 +19,7 @@ youtube_code: V8OHUUDnJzI
 
 {% include youtube.html %}
 
-Why do agents join RE/MAX Professionals? Today I’m interviewing fellow agent Brady Bosworth to help answer that question.
+<p style="text-align: center;"><em>Why do agents join RE/MAX Professionals? Today I’m interviewing fellow agent Brady Bosworth to help answer that question.</em></p>
 
 Today I’m sitting down with fellow RE/MAX agent Brady Bosworth to talk about his career as an agent, why he joined RE/MAX Professionals, and how this decision has benefited his business moving forward.&nbsp;
 
