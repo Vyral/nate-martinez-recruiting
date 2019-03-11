@@ -23,35 +23,35 @@ I would encourage you to take a look at yourself and ask if you are deliberate, 
 
 **ENCOURAGEMENT CORNER**
 
-TEAMWORK by Katrina Losta&nbsp;
+TEAMWORK by Katrina Losta 
 
-Concentrate 10% on lack of communication...And 90% in being PART OF ESTABLISHING IT.&nbsp;
+Concentrate 10% on lack of communication…And 90% in being PART OF ESTABLISHING IT. 
 
-Concentrate 10% on un-professionalism...And 90% on LEADING BY EXAMPLE.
+Concentrate 10% on un-professionalism…And 90% on LEADING BY EXAMPLE.
 
-Concentrate 10% on someone else's weakness...And 90% on IMPROVING YOUR OWN.
+Concentrate 10% on someone else's weakness…And 90% on IMPROVING YOUR OWN.
 
-Concentrate 10% on accusations...And 90% on GETTING THE FACTS.&nbsp;
+Concentrate 10% on accusations…And 90% on GETTING THE FACTS. 
 
-Concentrate 10% on lack of training...And 90% on HOW TO OBTAIN IT.&nbsp;
+Concentrate 10% on lack of training…And 90% on HOW TO OBTAIN IT. 
 
-Concentrate 10% on complaining...And 90% on COMPLIMENTING.&nbsp;
+Concentrate 10% on complaining…And 90% on COMPLIMENTING. 
 
-Concentrate 10% on flaws in the system...And 90% on BEING PART OF IMPROVING THEM.&nbsp;
+Concentrate 10% on flaws in the system…And 90% on BEING PART OF IMPROVING THEM. 
 
-Concentrate 10% on constructive criticism...And 90% on LEARNING FROM IT.&nbsp;
+Concentrate 10% on constructive criticism…And 90% on LEARNING FROM IT. 
 
-Concentrate 10% on others...And 90% on YOURSELF.&nbsp;
+Concentrate 10% on others…And 90% on YOURSELF. 
 
-Concentrate 10% on fear of making a mistake...And 90% on ACHIEVING SUCCESS.
+Concentrate 10% on fear of making a mistake…And 90% on ACHIEVING SUCCESS.
 
-Concentrate 10% on watching the clock...And 90% on PRODUCTIVITY!&nbsp;
+Concentrate 10% on watching the clock…And 90% on PRODUCTIVITY! 
 
-Concentrate 10% on conflict...And 90% on RESOLUTION.&nbsp;
+Concentrate 10% on conflict…And 90% on RESOLUTION. 
 
-Concentrate 10% on what you want to be...And 90% on HOW TO GET THERE!
+Concentrate 10% on what you want to be…And 90% on HOW TO GET THERE!
 
-Concentrate 10% on obstacles...And 90% on PERSEVERANCE AND VICTORY!
+Concentrate 10% on obstacles…And 90% on PERSEVERANCE AND VICTORY!
 
 **WORDS OF INSPIRATION**
 
