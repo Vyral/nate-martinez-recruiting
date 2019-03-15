@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Nate''s Monday Morning Message March 18, 2019'
-date:
+date: 2019-03-18 00:00:00
 tags:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/181219-natemondaymessage-v1-8.png
 youtube_code:
 ---
 
