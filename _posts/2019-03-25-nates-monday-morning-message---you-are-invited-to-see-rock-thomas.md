@@ -15,6 +15,8 @@ youtube_code:
 
 **Nate’s Monday Morning Message**
 
+![](/uploads/53317858-2637922416250230-2747945820014772224-n-1.jpg)
+
 Welcome to this week’s edition of Nate's Monday Message! Today I am excited to personally invite you to a special event we are hosting on Wednesday with self-made millionaire and motivational speaker, Rock Thomas. I have known Rock for a few years now, and it is a privilege to have him share his is **Sunday System for Success** (this presentation is valued at $297.00 per ticket). He's run several successful businesses, six award-winning RE/MAX franchises, sold countless best-selling books and created life-changing programs that help people turn ideas into action and action into success.&nbsp;
 
 You don’t have to be in real estate to benefit from his presentation, meaning that this invitation is open to anyone who is committed to self-mastery, so please share it with your friends and family!
@@ -25,7 +27,7 @@ We will be providing lunch and everyone who attends will receive a planner which
 
 THE BEAUTY OF MATHEMATICS
 
-BE sure to read to the END...Just the math part is good enough, the end is even better.&nbsp;
+BE sure to read to the END…Just the math part is good enough, the end is even better.&nbsp;
 
 1 x 8 + 1 = 9 12 x 8 + 2 = 98&nbsp;<br>123 x 8 + 3 = 987&nbsp;<br>1234 x 8 + 4 = 9876&nbsp;<br>12345 x 8 + 5 = 98765&nbsp;<br>123456 x 8 + 6 = 987654&nbsp;<br>1234567 x 8 + 7 = 9876543&nbsp;<br>12345678 x 8 + 8 = 98765432&nbsp;<br>123456789 x 8 + 9 = 987654321 &nbsp;
 
@@ -35,7 +37,7 @@ BE sure to read to the END...Just the math part is good enough, the end is even 
 
 1 x 1 = 1&nbsp;<br>11 x 11 = 121&nbsp;<br>111 x 111 = 12321&nbsp;<br>1111 x 1111 = 1234321&nbsp;<br>11111 x 11111 = 123454321&nbsp;<br>111111 x 111111 = 12345654321&nbsp;<br>1111111 x 1111111 = 1234567654321&nbsp;<br>11111111 x 11111111 = 123456787654321&nbsp;<br>111111111 x 111111111 = 12345678987654321 &nbsp;
 
-Mind Boggling... Now, take a look at this...&nbsp;
+Mind Boggling… Now, take a look at this…&nbsp;
 
 From a strictly mathematical viewpoint:&nbsp;<br>What Equals 100%? What does it mean to give MORE than 100%? &nbsp;
 
