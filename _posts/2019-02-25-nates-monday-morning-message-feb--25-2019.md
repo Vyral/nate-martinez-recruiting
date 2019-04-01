@@ -3,6 +3,8 @@ layout: post
 title: 'Nate''s Monday Morning Message Feb. 25, 2019'
 date: 2019-02-25 00:00:00
 tags:
+  - Nate's Monday Morning Message
+hidden: true
 excerpt:
 enclosure:
 pullquote:

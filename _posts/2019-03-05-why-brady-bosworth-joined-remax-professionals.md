@@ -4,6 +4,7 @@ title: Why Brady Bosworth Joined RE/MAX Professionals
 date: 2019-03-05 21:53:02
 tags:
   - RE/MAX Professionals
+hidden: false
 excerpt: >-
   Why do agents join RE/MAX Professionals? Today I’m interviewing fellow agent
   Brady Bosworth to help answer that question.

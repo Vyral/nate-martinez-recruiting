@@ -3,6 +3,7 @@ layout: post
 title:
 date:
 tags:
+hidden: false
 excerpt:
 enclosure:
 pullquote:

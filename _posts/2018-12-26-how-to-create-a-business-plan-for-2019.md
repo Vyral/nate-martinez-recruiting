@@ -4,6 +4,7 @@ title: How to Create a Business Plan for 2019
 date: 2018-12-26 01:00:00
 tags:
   - Reviews and Referral System
+hidden: false
 excerpt: Creating a business plan will ensure you meet your goals. Here’s how.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/How+to+Create+a+Business+Plan+for+2019.mp4

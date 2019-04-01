@@ -4,6 +4,7 @@ title: How Tracking Your Leads Can Save You Money
 date: 2019-02-19 18:18:33
 tags:
   - Lead Conversion
+hidden: false
 excerpt: Today I want to give you my professional advice about how to track your leads.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2019/Feb+1+Recruiting.mp4

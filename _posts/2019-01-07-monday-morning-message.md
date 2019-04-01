@@ -4,9 +4,7 @@ title: Monday Morning Message
 date: 2019-01-07 00:00:00
 tags:
   - Nate's Monday Morning Message
-  - Nate Martinez
-  - Arizona
-  - Real Estate
+hidden: true
 excerpt:
 enclosure:
 pullquote:

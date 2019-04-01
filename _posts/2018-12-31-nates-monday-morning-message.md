@@ -2,10 +2,8 @@
 layout: post
 title: Nate's Monday Morning Message
 tags:
-  - Nate Martinez
   - Nate's Monday Morning Message
-  - Arizona
-  - Real Estate
+hidden: true
 excerpt:
 enclosure:
 pullquote:

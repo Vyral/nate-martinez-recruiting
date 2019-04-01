@@ -3,6 +3,8 @@ layout: post
 title: Nate's Monday Morning Message - You are invited to see Rock Thomas!
 date: 2019-03-25 00:00:00
 tags:
+  - Nate's Monday Morning Message
+hidden: true
 excerpt:
 enclosure:
 pullquote:

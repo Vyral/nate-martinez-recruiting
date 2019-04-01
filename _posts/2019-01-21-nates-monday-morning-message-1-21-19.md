@@ -3,6 +3,8 @@ layout: post
 title: Nate's Monday Morning Message 1.21.19
 date: 2019-01-21 00:00:00
 tags:
+  - Nate's Monday Morning Message
+hidden: true
 excerpt:
 enclosure:
 pullquote:
