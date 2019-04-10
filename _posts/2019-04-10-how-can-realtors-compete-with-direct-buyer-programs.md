@@ -28,7 +28,7 @@ Some of the topics we discussed include:
 
 * Strategies for representing both sellers and buyers through iBuyer programs
 * Scripting techniques and negotiating commissions when working with direct buyers
-* How you can your value as an agent compared to a technology company
+* How you can demonstrate your value as an agent compared to a technology company
 * Setting expectations for service fees and repairs on a listing
 * How to proceed when a client has received a previous offer from a direct buyer
 
