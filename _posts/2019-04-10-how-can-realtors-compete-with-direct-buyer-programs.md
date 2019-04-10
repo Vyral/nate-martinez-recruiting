@@ -7,10 +7,9 @@ hidden: false
 excerpt: >-
   There's recently been a lot of hype surrounding new technology in real estate.
   As Realtors, should we be worried about this new level of competition?
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2019/Interview+With+Brady+Bosworth.mp4
+enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
