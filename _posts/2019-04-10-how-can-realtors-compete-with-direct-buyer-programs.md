@@ -35,6 +35,6 @@ Some of the topics we discussed include:
 
 Watch this short video to view a few highlights from this panel discussion so you can stay ahead of the curve when dealing with new trends in real estate technology.
 
-If you'd like to view the full hour-long discussion, [you can watch it in its entirety here](https://youtu.be/SeFtfW5FVT0).
+**If you'd like to view the full hour-long discussion**, [you can watch it in its entirety here](https://youtu.be/SeFtfW5FVT0).
 
 As always, if you have any questions or there’s anything I can help you with, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;
