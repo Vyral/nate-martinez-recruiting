@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nate''s Monday Morning Message June 3, 2019'
-date: 2019-05-20 00:00:00
+date: 2019-06-03 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
