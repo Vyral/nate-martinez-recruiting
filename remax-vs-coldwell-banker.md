@@ -4,7 +4,7 @@ title: RE/MAX vs. Coldwell Banker
 permalink: /remax-vs-coldwell-banker/
 ---
 <h1 class="center">RE/MAX vs. Coldwell Banker</h1>
-<img src="/img/coldwell-banker.pdf" alt="Remax vs Coldwell Banker" class="post-image">
+<img src="/img/coldwell-banker.jpg" alt="Remax vs Coldwell Banker" class="post-image">
 
 <h3>Cost + Value</h3>
 <p>It's very likely that RE/MAX Professionals costs substantially less than what you currently pay [brand].  Because we're built to service higher-producing agents and cater to their needs, our compensation plans are designed to make sense for them as well.  We don't have any hidden fees, splits, or transactional costs because our focus is the success of our agents, not generating as much revenue as possible from a smaller number of transactions.  On top of the savings with lower apples-to-apples cost, think about what the additional income you'll earn with the move to RE/MAX Professionals means to helping you meet your personal goals!</p>
