@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/ftkTDUKTwUc'
 
 {% include youtube.html %}
 
-Telling the right stories can help you secure more clients, and today I’ll explain how.
+<p style="text-align: center;"><em>Telling the right stories can help you secure more clients, and today I’ll explain how.</em></p>
 
 I recently read an article that explained how **sellers lost $14 billion in equity last year because of the increasing number of iBuyers entering our market.** Selling to these companies is usually advertised as a convenient deal, but is actually a very ineffective move for today’s sellers.&nbsp;
 
