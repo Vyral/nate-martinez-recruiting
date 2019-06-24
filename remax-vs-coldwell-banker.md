@@ -4,10 +4,10 @@ title: RE/MAX vs. Coldwell Banker
 permalink: /remax-vs-coldwell-banker/
 ---
 <h1 class="center">RE/MAX vs. Coldwell Banker</h1>
-<img src="/img/coldwell-banker.jpg" alt="Remax vs Coldwell Banker" class="post-image">
+<img src="/img/coldwell-banker.jpg" alt="Remax vs Coldwell Banker" class="infographic">
 
 <h3>Cost + Value</h3>
-<p>It's very likely that RE/MAX Professionals costs substantially less than what you currently pay [brand].  Because we're built to service higher-producing agents and cater to their needs, our compensation plans are designed to make sense for them as well.  We don't have any hidden fees, splits, or transactional costs because our focus is the success of our agents, not generating as much revenue as possible from a smaller number of transactions.  On top of the savings with lower apples-to-apples cost, think about what the additional income you'll earn with the move to RE/MAX Professionals means to helping you meet your personal goals!</p>
+<p>It's very likely that RE/MAX Professionals costs substantially less than what you currently pay Coldwell Banker.  Because we're built to service higher-producing agents and cater to their needs, our compensation plans are designed to make sense for them as well.  We don't have any hidden fees, splits, or transactional costs because our focus is the success of our agents, not generating as much revenue as possible from a smaller number of transactions.  On top of the savings with lower apples-to-apples cost, think about what the additional income you'll earn with the move to RE/MAX Professionals means to helping you meet your personal goals!</p>
 
 
 <h3>The RE/MAX Brand</h3>
@@ -32,3 +32,7 @@ permalink: /remax-vs-coldwell-banker/
 
 <h3>Forward-Thinking, Results-Driven</h3>
 <p>What's your outlook on our industry over the next 3-5 years?  What strategic plans does [brand] have to navigate the changes and challenges ahead?  How are they addressing the explosion of iBuyers (Open-door, Offerpad, Zillow Instant Offers, etc.) in the Phoenix market?  What's the next emerging technology that will change the way we do business and how is your brokerage preparing for it?  RE/MAX Professionals has been able to remain the home of the most productive agents in Arizona for a decade running because we're always looking for ways to stay on the cutting edge of industry movements to take advantage of developing opportunities.  We double-down on what's working and aren't afraid to step away from what's not.  Those decisions are informed by research, data, and feedback at every level from our local agents and their clients to the state and national leadership roles our agents and staff hold to long-term international initiatives that RE/MAX LLC helps to drive.</p>
+
+<div class="center readlink" style="margin-bottom: 2rem">
+  <a href="/contact/">Contact Us</a>
+</div>
