@@ -26,7 +26,7 @@ youtube_code: 'https://youtu.be/ftkTDUKTwUc'
 
 I recently read an article that explained how **sellers lost $14 billion in equity last year because of the increasing number of iBuyers entering our market.** Selling to these companies is usually advertised as a convenient deal, but is actually a very ineffective move for today’s sellers.&nbsp;
 
-So, what can you do to dissuade sellers from going that route? One of the simplest ways is by doing what you do best: Offering expert real estate advice.
+So, what can you do to dissuade sellers from going that route? One of the simplest ways is by doing what you do best: offering expert real estate advice.
 
 {% include pullquote.html %}
 
