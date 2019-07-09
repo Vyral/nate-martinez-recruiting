@@ -1,3 +1,24 @@
+.recruiting-cta>a
+	background: $brand
+	color: $light-text
+	border: 1px solid $brand
+	border-radius: $button-radius
+	padding: 10px 20px
+	margin-top: 20px
+	text-decoration: none
+	text-transform: uppercase
+	letter-spacing: 4px
+	font-size: 20px
+	+transition
+	&:hover
+		background: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:active
+		box-shadow: 0 0 0 $brand
+		@include transform(translateY(0rem))
+
+
 .recruiting
 	text-align: center
 
