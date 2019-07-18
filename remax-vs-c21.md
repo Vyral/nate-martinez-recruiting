@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: landingpage
 title: RE/MAX vs. Century 21
 permalink: /remax-vs-c21/
 ---
@@ -34,4 +34,4 @@ permalink: /remax-vs-c21/
 <h3>Forward-Thinking, Results-Driven</h3>
 <p>What's your outlook on our industry over the next 3-5 years?  What strategic plans does Century 21 have to navigate the changes and challenges ahead?  How are they addressing the explosion of iBuyers (Open-door, Offerpad, Zillow Instant Offers, etc.) in the Phoenix market?  What's the next emerging technology that will change the way we do business and how is your brokerage preparing for it?  RE/MAX Professionals has been able to remain the home of the most productive agents in Arizona for a decade running because we're always looking for ways to stay on the cutting edge of industry movements to take advantage of developing opportunities.  We double-down on what's working and aren't afraid to step away from what's not.  Those decisions are informed by research, data, and feedback at every level from our local agents and their clients to the state and national leadership roles our agents and staff hold to long-term international initiatives that RE/MAX LLC helps to drive.</p>
 
-{% include c21-form.html %}
+<div class="center">{% include c21-form.html %}</div>
