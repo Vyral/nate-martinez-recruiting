@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/7zBCUvOtNEI'
 
 {% include youtube.html %}
 
-The 2018 Characteristics of New Housing Report is here, and I have all the key statistics to share with you.
+<p style="text-align: center;"><em>The 2018 Characteristics of New Housing Report is here, and I have all the key statistics to share with you.</em></p>
 
 What does the 2018 Characteristics of New Housing Report say about last year’s national housing market?
 
