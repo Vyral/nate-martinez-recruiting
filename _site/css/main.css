@@ -1336,8 +1336,7 @@ html[xmlns] .flexslider .slides {
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
-  width: 100%;
-  overflow: hidden; }
+  width: 100%; }
 
 .navbar-andross .navbar-brand {
   color: #DC1C2E;
@@ -1370,6 +1369,11 @@ html[xmlns] .flexslider .slides {
     text-decoration: none;
     color: #DC1C2E; }
 
+.navbar-collapse {
+  list-style: none;
+  margin: 0;
+  margin-top: 2rem; }
+
 .nav > li > a {
   padding: 10px; }
 
@@ -1391,6 +1395,9 @@ html[xmlns] .flexslider .slides {
 
 .fa-bars {
   color: #DC1C2E; }
+  .fa-bars:hover {
+    background: #DC1C2E;
+    color: #ffffff; }
 
 .phone, .fa-phone {
   color: #fff; }
@@ -1403,7 +1410,7 @@ html[xmlns] .flexslider .slides {
   margin-top: 2rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 2.75rem; }
   .navbar-right a {
     font-weight: bold; }
 
@@ -1412,6 +1419,9 @@ html[xmlns] .flexslider .slides {
   max-width: 100px;
   margin: 5px;
   padding: 10px; }
+
+.navbar-collapse.collapse {
+  display: inline-block !important; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -2683,6 +2693,20 @@ form select {
 .newsletter {
   background: black; }
 
+.vendor-logo {
+  max-width: 250px;
+  display: block;
+  margin: 0 auto; }
+
+.partner-hr {
+  display: none; }
+
+.partner-title {
+  text-transform: uppercase;
+  padding: 10px 15px;
+  background: #0054a4;
+  color: #ffffff; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
@@ -2710,6 +2734,11 @@ form select {
   padding: 0 0 20px 20px;
   float: right; }
 
+@media (max-width: 1030px) {
+  .partner-hr {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; } }
 .recruiting-cta > a {
   background: #DC1C2E;
   color: white;
@@ -2909,3 +2938,33 @@ form select {
   .landing-list li {
     font-size: 16px;
     line-height: 1.2; }
+
+.dropbtn {
+  color: black;
+  background-color: #ffffff;
+  font-weight: 300;
+  font-size: 20px;
+  border: none;
+  text-transform: capitalize; }
+
+.dropdown {
+  position: relative;
+  display: inline-block; }
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 300px; }
+
+.dropdown-content a {
+  padding: 12px;
+  text-decoration: none;
+  font-size: 20px; }
+
+.dropdown:hover .dropdown-content {
+  display: block; }
+
+.dropdown:hover .dropbtn {
+  background-color: #dc1c2e;
+  border: 0px solid #DC1C2E; }

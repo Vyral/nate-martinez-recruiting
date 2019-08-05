@@ -4,7 +4,6 @@
 	min-height: 52px
 	background: #ffffff
 	width: 100%
-	overflow: hidden
 
 .navbar-andross .navbar-brand
 	color: $brand
@@ -42,6 +41,11 @@
 		text-decoration: none
 		color: $brand
 
+.navbar-collapse
+	list-style: none
+	margin: 0
+	margin-top: 2rem
+
 .nav>li>a
 	padding: 10px
 
@@ -64,6 +68,9 @@
 
 .fa-bars
 	color: $brand
+	&:hover
+		background: $brand
+		color: #ffffff
 
 .navbar-toggle
 	// margin-top: 20px
@@ -80,7 +87,7 @@
 	margin-top: 2rem
 
 .navbar-right
-	margin-top: 2rem
+	margin-top: 2.75rem
 	a
 		font-weight: bold
 
@@ -89,6 +96,9 @@
 	max-width: 100px
 	margin: 5px
 	padding: 10px
+
+.navbar-collapse.collapse
+	display: inline-block !important
 
 @media (max-width: 760px)
 	.nav-logo
