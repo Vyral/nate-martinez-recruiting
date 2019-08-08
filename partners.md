@@ -98,9 +98,9 @@ permalink: /partners/
 	<div class="col-lg-6">
 		<h3 class="partner-title center">Title</h3><br>
 		<a href="http://titleallianceprofessionals.com"><img src="/img/title.png" class="vendor-logo center"></a><br>
-		<p class="center"><strong>Jody Snyder</strong><br>
+		<p class="center"><strong>Angela Mayer</strong><br>
 		<a href="tel:1-623-500-5031">623-500-5031</a><br>
-		<a href="mailto:jsnyder@titleallianceprofessionals.com">jsnyder@titleallianceprofessionals.com</a><br>
+		<a href="mailto:amayer@titleallianceprofessionals.com">amayer@titleallianceprofessionals.com</a><br>
 		<a href="http://titleallianceprofessionals.com">titleallianceprofessionals.com</a>
 		</p>
 	</div>
