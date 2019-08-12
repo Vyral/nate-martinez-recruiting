@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/0o7FZwWdlcs'
 
 {% include youtube.html %}
 
-No matter if you’re a Realtor or you offer some other service to buyers and sellers in the Valley, Nate’s list benefits all.
+<p style="text-align: center;"><em>No matter if you’re a Realtor or you offer some other service to buyers and sellers in the Valley, Nate’s list benefits all.</em></p>
 
 Is your list of quality vendors to refer your clients to pretty short right now?&nbsp;
 
