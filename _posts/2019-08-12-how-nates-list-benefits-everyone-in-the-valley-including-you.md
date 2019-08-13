@@ -22,17 +22,17 @@ youtube_code: 'https://youtu.be/0o7FZwWdlcs'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>No matter if you’re a Realtor or you offer some other service to buyers and sellers in the Valley, Nate’s list benefits all.</em></p>
+<p style="text-align: center;"><em>No matter if you’re a Realtor or you offer some other service to buyers and sellers in the Valley, Nate’s List benefits all.</em></p>
 
 Is your list of quality vendors to refer your clients to pretty short right now?&nbsp;
 
-In light of the current construction boom in our Phoenix marketplace, I know mine is, and I’d like to add to my network. To achieve that, **my team and I are looking to build an amazing client service list—Nate’s list, as we call it.&nbsp;**
+In light of the current construction boom in our Phoenix marketplace, I know mine is, and I’d like to add to my network. To achieve that, **my team and I are looking to build an amazing client service list—Nate’s List, as we call it.&nbsp;**
 
 When it comes to mortgage lenders, title, and insurance, we have some deeply established relationships already, but our goal is to cast our net a little wider and foster relationships with all sorts of vendors who service buyers and sellers.&nbsp;
 
 Since starting RE/MAX Professionals 19 years ago, **we’ve served around 60,000 clients across the Valley—many of whom would like to enlist the help of a professional, highly reputable provider to fill their specific needs.**&nbsp;
 
-Nate’s list will feature everything from landscapers to pool cleaners to clothing cleaners and more. If you provide a service that buyers and sellers can benefit from, **I’d like to be the conduit between you and our past clients.**
+Nate’s List will feature everything from landscapers to pool cleaners to clothing cleaners and more. If you provide a service that buyers and sellers can benefit from, **I’d like to be the conduit between you and our past clients.**
 
 {% include pullquote.html %}
 
