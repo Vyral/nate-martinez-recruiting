@@ -6,7 +6,7 @@ tags:
   - Lead Generation
 hidden: false
 excerpt: >-
-  No matter if you’re a Realtor or you offer some other service to buyers and
+  No matter if you’re a Realtor® or you offer some other service to buyers and
   sellers in the Valley, Nate’s list benefits all.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2019/Client+Service+List.mp4
