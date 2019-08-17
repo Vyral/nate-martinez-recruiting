@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate's Monday Morning Message Volume 970
-date: 2019-08-12 00:00:00
+date: 2019-08-19 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
