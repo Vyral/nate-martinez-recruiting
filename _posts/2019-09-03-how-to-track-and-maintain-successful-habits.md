@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/9qWUQAIFwf0'
 
 {% include youtube.html %}
 
-Today I want to give you a few tips about how to maintain and track successful habits in your business.
+<p style="text-align: center;"><em>Today I want to give you a few tips about how to maintain and track successful habits in your business.</em></p>
 
 Here in the office, my team uses something called the Daily Success Habits Tracker, and I want to take some time today to tell you about how it can help you.
 
