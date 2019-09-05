@@ -30,7 +30,7 @@ Over my career in real estate, I’ve found that agents either have good habits 
 
 **With the Daily Success Habits Tracker, we are able to focus on making sure each day is productive.** Here’s how it works:
 
-Essentially, **the tracker is a kind of chart that we’ve attached a point-system to.** The left column tracks the time throughout the day in half-hour increments. The center column lists the “61 Points of Rhythm,” which are 61 daily activities that are necessary to maintaining business; each activity is given a certain number of points, which you earn if you complete the tasks. Each tasks, such as prospecting via phone calls, can be completed more than once to earn multiple points.
+Essentially, **the tracker is a kind of chart that we’ve attached a point-system to.** The left column tracks the time throughout the day in half-hour increments. The center column lists the “61 Points of Rhythm,” which are 61 daily activities that are necessary to maintaining business; each activity is given a certain number of points, which you earn if you complete the tasks. Each task, such as prospecting via phone calls, can be completed more than once to earn multiple points.
 
 {% include pullquote.html %}
 
