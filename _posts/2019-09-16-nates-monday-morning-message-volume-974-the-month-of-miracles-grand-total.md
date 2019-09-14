@@ -35,4 +35,6 @@ Which brings me to our totals for this year…collectively our agents and office
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
+**PS you are invited to our the last business planning workshop we will be hosting in 2019\! This is the best time of year to start preparing for the upcoming selling season and we would love to have you there.&nbsp;[Click here](https://www.eventbrite.com/e/3-hour-business-planning-workshop-tickets-53697264965)&nbsp;to find out more details and mark your calendar for Oct 2nd at 3:30pm.&nbsp;**
+
 Copyright &copy; 2019 Nate Martinez. All rights reserved.
