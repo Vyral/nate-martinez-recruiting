@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Changing Your Life & Business Is a Perfect Schedule
-date: 2019-09-16 20:06:40
+date: 2019-09-16 20:06:00
 tags:
 hidden: false
 excerpt: >-
@@ -26,13 +26,13 @@ About three years ago, I decided to change my business based on some coaching th
 
 Before then, I probably worked between 50 and 70 hours a week. Today I’m working somewhere around 45 hours a week at max, but I’m earning more and I’m enjoying life more.
 
-If you look at my weekly schedule (see 1:28 in the video above), you’ll that it doesn’t have any appointments scheduled on Saturday or Sunday or anytime after 6 p.m.
+If you look at my weekly schedule (see 1:28 in the video above), you’ll see that it doesn’t have any appointments scheduled on Saturday or Sunday or anytime after 6 p.m.
 
 {% include pullquote.html %}
 
 **Here’s a general overview of my perfect week:**
 
-* **5 a.m.:** Wake up to start my “miracle morning activities”: Reading, journaling, exercising, and meditating
+* **5 a.m.:** Wake up to start my “miracle morning activities”: reading, journaling, exercising, and meditating
 * **5:30 or 6 a.m.:** Arrive at the gym to work out for an hour&nbsp;
 * **7:30 a.m.:** Take my daughter to school
 * **9:30 a.m.** on Monday mornings: Attend a call with the leadership of RE/MAX Professionals for 30 minutes
