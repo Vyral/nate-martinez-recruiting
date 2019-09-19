@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/The+Key+to+Changing+Your+Life+%26+Business+Is+a+Perfect+Schedule.mp4
 pullquote: >-
-  If you can focus your time into two compartments each day and then review your
+  If you can focus your time into compartments each day and then review your
   schedule for efficiency, you can both change your life and your financial
   success.
 enclosure_type: video/mp4
