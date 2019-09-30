@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/lPzfXMsAPlk'
 
 {% include youtube.html %}
 
-Today’s video marks the beginning of a five-part series on creating a solid business plan. Tune in to learn about the benefits of SWOT analysis.
+<p style="text-align: center;"><em>Today’s video marks the beginning of a five-part series on creating a solid business plan. Tune in to learn about the benefits of SWOT analysis.</em></p>
 
 Here is a tip to ensure that your business plan is effective and will lead you to success: Do a SWOT analysis on yourself. **SWOT stands for strengths, weaknesses, opportunities, and threats.**
 
