@@ -30,11 +30,11 @@ You can also give the form to a spouse, co-worker, or even your favorite mortgag
 
 **Strengths.** What factors about your business ensure that you’ll get the job done for your clients? Assessing your strengths will help you reflect on the advantages your company has over others.&nbsp;
 
-**Weaknesses.** Where do you need to improve? Which factors prevent you from getting listings? Maybe you’re not strong enough on the closing side. Determine what you’re not doing as well as you could be will help you improve your plan and have more success.
+**Weaknesses.** Where do you need to improve? Which factors prevent you from getting listings? Maybe you’re not strong enough on the closing side. Determining what you’re not doing as well as you could be will help you improve your plan and have more success.
 
 {% include pullquote.html %}
 
-**Opportunities.** Your strengths are internal, but your opportunities are external. For example, both interest rates and inventory are very low right now and that iBuyers are prevalent in the industry; how can you take some of these opportunities and incorporate them into your business plan?
+**Opportunities.** Your strengths are internal, but your opportunities are external. For example, both interest rates and inventory are very low right now and iBuyers are prevalent in the industry; how can you take some of these opportunities and incorporate them into your business plan?
 
 **Threats.** These are somewhat the opposite of your opportunities—what obstacles do you face? A lot of people think that Zillow and other iBuyers are threats, but even if they are a threat to you, your goal should be to learn everything you can about them and try to turn them into opportunities. We’ve witnessed that happening even here. A local agent started a Facebook page to get input from people about iBuyers and then created a whole iBuyer platform to educate Realtors about the iBuyer business. He took a threat and turned it into an opportunity, and you can, too.
 
