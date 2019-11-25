@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Nate's Monday Morning Message Volume 983
 date: 2019-11-25 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -17,7 +17,7 @@ youtube_code:
 
 ![](/uploads/nates-monday-morning-message-11-4-2019-2.jpg){: width="1600" height="1067"}
 
-## **Nate’s Monday Morning Message<br>Volume 98**
+## **Nate’s Monday Morning Message<br>Volume 983**
 
 Welcome to this week’s edition of Nate’s Monday Morning Message…This is the time of year that we should take a moment to consider what we have to be truly thankful for…down to the smallest gestures of kindness, to the rain that quenched our desert floor last week, to the fest that will be served this Thursday in most American homes (and some aboard for those celebrating outside the U.S.) Even if you are facing a difficult time, we can still be grateful for the loving people we know, the breath in our lungs and the opportunities that lie ahead in the New Year.
 
