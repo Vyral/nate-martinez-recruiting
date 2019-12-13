@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/richardomans.png
+youtube_alternate_image: /uploads/rose-1.png
 youtube_code:
 ---
 
