@@ -37,7 +37,7 @@ Each day I learn more than I teach;<br>I learn that half knowledge of another's 
 
 “Our lives are a sum total of the choices we have made.” – Wayne Dyer
 
-“One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.” - Eleanor Roosevelt
+“One's philosophy is not best expressed in words; it is expressed in the choices one makes… and the choices we make are ultimately our responsibility.” - Eleanor Roosevelt
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
