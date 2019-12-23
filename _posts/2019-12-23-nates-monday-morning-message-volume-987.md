@@ -23,7 +23,7 @@ Welcome to this week’s edition of Nate’s Monday Morning Message…I read an 
 
 “Want courage? Give encouragement. Want hope? Give hope. Want love? Give love. Want success? Help someone else become successful.” – Darren Hardy
 
-We are presented with little opportunities on a daily basis to make a difference, just by giving whatever you can in that moment. Giving isn’t about money or fancy gifts; the simple gesture of a kind smile to a stranger can be the best gift of all. And the gifts we give that come from the heart, are what the holiday season is truly about. My wish for you, this year and throughout the New Year is to be in the “*giving season**”* every day. Let’s make it a great week\!
+We are presented with little opportunities on a daily basis to make a difference, just by giving whatever you can in that moment. Giving isn’t about money or fancy gifts; the simple gesture of a kind smile to a stranger can be the best gift of all. And the gifts we give that come from the heart, are what the holiday season is truly about. My wish for you, this year and throughout the New Year is to be in the “*giving season\*\*”* every day. Let’s make it a great week\!
 
 **ENCOURAGEMENT CORNER**
 
