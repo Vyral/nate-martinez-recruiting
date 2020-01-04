@@ -51,4 +51,4 @@ S: Specific – get clear about the goal<br>M: Measurable – what gets measured
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
-Copyright &copy; 2019 Nate Martinez. All rights reserved.
+Copyright &copy; 2020 Nate Martinez. All rights reserved.
