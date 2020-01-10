@@ -9,7 +9,7 @@ excerpt: >-
   Today’s video marks the beginning of a five-part series on creating a solid
   business plan. Tune in to learn about the benefits of SWOT analysis.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2019/SWOT+Analysis.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/SWOT+Analysis+1.7.mp4
 pullquote: >-
   Don’t be upset by the feedback you receive; take that information and use it
   to better yourself.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/lPzfXMsAPlk'
+youtube_code: 'https://youtu.be/Km3woGF5AfU'
 ---
 
 {% include youtube.html %}
