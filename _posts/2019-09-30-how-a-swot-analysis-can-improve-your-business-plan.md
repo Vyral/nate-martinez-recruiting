@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/Km3woGF5AfU'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today’s video marks the beginning of a five-part series on creating a solid business plan. Tune in to learn about the benefits of SWOT analysis.</em></p>
+<p style="text-align: center;"><em>Today’s video is about creating a solid business plan. Tune in to learn about the benefits of SWOT analysis.</em></p>
 
 Here is a tip to ensure that your business plan is effective and will lead you to success: Do a SWOT analysis on yourself. **SWOT stands for strengths, weaknesses, opportunities, and threats.**
 
@@ -38,4 +38,4 @@ You can also give the form to a spouse, co-worker, or even your favorite mortgag
 
 **Threats.** These are somewhat the opposite of your opportunities—what obstacles do you face? A lot of people think that Zillow and other iBuyers are threats, but even if they are a threat to you, your goal should be to learn everything you can about them and try to turn them into opportunities. We’ve witnessed that happening even here. A local agent started a Facebook page to get input from people about iBuyers and then created a whole iBuyer platform to educate Realtors about the iBuyer business. He took a threat and turned it into an opportunity, and you can, too.
 
-Tune in next week for part two of my five-part series on formulating a better business plan. In the meantime, if you have any questions about today’s topic, don’t hesitate to reach out to me. I’d love to speak with you in more detail.
+If you have any questions about today’s topic, don’t hesitate to reach out to me. I’d love to speak with you in more detail.
