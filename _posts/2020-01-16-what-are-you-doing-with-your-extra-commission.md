@@ -31,6 +31,6 @@ What are you doing with that extra commission? Do you own real estate? If you bo
 
 {% include pullquote.html %}
 
-My challenge for you is to buy real estate. Help your clients understand this particular model. I’ll make sure we have a downloadable graph for you with this information shortly.
+My challenge for you is to buy real estate. Help your clients understand this particular model. To download the graph mentioned in the video above, click <a href="https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/Home+Price+Graph.pdf" target="_blank">here.</a>
 
 If you have any questions about your rising commission, feel free to reach out to me by phone or email. I would love to discuss this with you further.&nbsp;
