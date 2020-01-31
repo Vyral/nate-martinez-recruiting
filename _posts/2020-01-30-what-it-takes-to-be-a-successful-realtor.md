@@ -36,7 +36,7 @@ We had a challenge on our hands. We found a home, but we couldn’t negotiate th
 
 That’s when we started looking for a backup property, and we found one, but we still made another counteroffer to the previous seller and their agent to make the situation right. They didn’t, so we canceled that contract and moved on to the third house. Fortunately, this seller’s agent was great and expedited everything for us. On the 6th, we were able to hand over the keys to the house to my buyer.&nbsp;
 
-We got the deal done, but it took a lot of time and a lot of teamwork. That’s what it takes in today’s market to represent a client, especially one who’s relocating. Inventory is historically low, and as the year goes on, buyer demand will be high.&nbsp;
+We got the deal done, but it took a lot of time and teamwork. That’s what it takes in today’s market to represent a client, especially one who’s relocating. Inventory is historically low, and as the year goes on, buyer demand will be high.&nbsp;
 
 We’re in a service industry, so **remember to go the extra mile to make sure your clients are happy.&nbsp;**
 
