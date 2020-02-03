@@ -1,13 +1,13 @@
 ---
 layout: post
-title: What It Takes to Be a Successful Realtor
+title: 'What It Takes to Be a Successful REALTOR&reg;'
 date: 2020-01-30 14:59:41
 tags:
   - Transaction Management
 hidden: false
 excerpt: >-
-  I have a story to share with you that demonstrates what it takes to be a
-  successful Realtor.
+  'I have a story to share with you that demonstrates what it takes to be a
+  successful REALTOR&reg;'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/What+Does+It+Take+to+Be+a+Successful+Realtor_.mp4
 pullquote: >-
@@ -22,9 +22,9 @@ youtube_code: tfSYi6Hq2Ls
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I have a story to share with you that demonstrates what it takes to be a successful Realtor.</em></p>
+<p style="text-align: center;"><em>I have a story to share with you that demonstrates what it takes to be a successful REALTOR&reg;.</em></p>
 
-What does it take to be a successful Realtor?&nbsp;
+What does it take to be a successful REALTOR&reg;?
 
 To answer that question, I’ll share a quick story I posted on Facebook a couple of days ago. If you’re new to real estate, this story is especially important. Most of us are diligent about posting our successes online (e.g., *“We sold a house in three days for full price with multiple offers\!”*) The downside to this is that **the consumer thinks our job is easy.&nbsp;**
 
@@ -40,4 +40,4 @@ We got the deal done, but it took a lot of time and teamwork. That’s what it t
 
 We’re in a service industry, so **remember to go the extra mile to make sure your clients are happy.&nbsp;**
 
-If you’d like to talk more about what it takes to be a successful Realtor or have any other questions, don’t hesitate to reach out to me. I’d love to help you.
+If you’d like to talk more about what it takes to be a successful REALTOR&reg; or have any other questions, don’t hesitate to reach out to me. I’d love to help you.
