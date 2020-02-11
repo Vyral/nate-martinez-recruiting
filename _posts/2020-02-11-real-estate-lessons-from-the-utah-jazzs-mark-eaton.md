@@ -38,12 +38,14 @@ How did this transformation happen? It started with someone believing in him. To
 
 So here are Eaton’s four commitments as applied to the real estate industry:&nbsp;
 
-* **Know your job.** Study scripts, do your roleplays, etc. Day in and day out, do whatever you must to master the craft.&nbsp;
+<ul>
+<li><strong>Know your job.</strong> Study scripts, do your roleplays, etc. Day in and day out, do whatever you must to master the craft.&nbsp;</li>
 
-* **Do as you’re asked.** There’s a lot of noise out from supposed gurus telling you how to excel in this industry, but focus only on what clients are asking you to do for them.&nbsp;
+<li><strong>Do as you’re asked.</strong> There’s a lot of noise out from supposed gurus telling you how to excel in this industry, but focus only on what clients are asking you to do for them.&nbsp;</li>
 
-* **Make people around you look good.** Be positive. If you’re cross-selling with someone, don’t drag them down or be dragged down to their level. Don’t blame anybody, either.&nbsp;
+<li><strong>Make people around you look good.</strong> Be positive. If you’re cross-selling with someone, don’t drag them down or be dragged down to their level. Don’t blame anybody, either.&nbsp;</li>
 
-* **Protect others.** Our license requires us to look out for people’s best interests. If you protect clients, they’ll remember what you did for them and tell others about you.&nbsp;
+<li><strong>Protect others.</strong> Our license requires us to look out for people’s best interests. If you protect clients, they’ll remember what you did for them and tell others about you.&nbsp;</li>
+</ul>
 
 If you have any questions about the topic covered in today’s message, feel free to call or email me. I would love to speak with you.
