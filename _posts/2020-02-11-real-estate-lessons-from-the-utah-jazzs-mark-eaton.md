@@ -20,7 +20,7 @@ youtube_code: w8X3RUk4T-w
 
 {% include youtube.html %}
 
-Today I’m explaining how lessons from former NBA player Mark Eaton’s amazing book apply to real estate agents.
+<p style="text-align: center;"><em>Today I’m explaining how lessons from former NBA player Mark Eaton’s amazing book apply to real estate agents.</em></p>
 
 At a conference in Orlando last week, I had the pleasure of listening to speaker Mark Eaton, author of “The Four Commitments of a Winning Team.” Many may be familiar with Eaton, who stands seven feet, four inches tall, from his professional basketball career with the Utah Jazz.&nbsp;
 
