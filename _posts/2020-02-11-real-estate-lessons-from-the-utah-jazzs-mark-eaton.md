@@ -22,15 +22,15 @@ youtube_code: w8X3RUk4T-w
 
 <p style="text-align: center;"><em>Today I’m explaining how lessons from former NBA player Mark Eaton’s amazing book apply to real estate agents.</em></p>
 
-At a conference in Orlando last week, I had the pleasure of listening to speaker Mark Eaton, author of “The Four Commitments of a Winning Team.” Many may be familiar with Eaton, who stands seven feet, four inches tall, from his professional basketball career with the Utah Jazz.&nbsp;
+At a conference in Orlando last week, **I had the pleasure of listening to speaker Mark Eaton, author of “The Four Commitments of a Winning Team.”** Many may be familiar with Eaton, who stands seven feet, four inches tall, from his professional basketball career with the Utah Jazz.&nbsp;
 
-His book is an absolute page turner that recounts his personal story. He was a mechanic who didn’t play basketball in high school and never went to college. A coach who encountered Eaton at the auto shop tried to talk him into becoming a member of a junior college basketball team.&nbsp;
+His book is an absolute page-turner that recounts his personal story. He was a mechanic who didn’t play basketball in high school and never went to college. A coach who encountered Eaton at the auto shop tried to talk him into becoming a member of a junior college basketball team.&nbsp;
 
-Eaton had zero interest in basketball, and shooed the coach off. However, as Eaton recalls, the coach was incredibly persistent; he approached Eaton 15 more times\! Ultimately, he convinced this mechanic with no basketball experience to come attend workouts and devote just an hour of his daily time to the junior college team.
+Eaton had zero interest in basketball and shooed the coach away. However, as Eaton recalls, the coach was incredibly persistent; he approached Eaton 15 more times\! Ultimately, he convinced this mechanic with no basketball experience to come attend workouts and devote just an hour of his daily time to the junior college team.
 
 Eaton joined the team and had success on the court. He went on to play for UCLA, where he didn’t enjoy nearly as much success. Nevertheless, coaches sent out some highlight reels to the worst team in the NBA at that time, the Utah Jazz, and they drafted Eaton in the fourth round.&nbsp;
 
-As fans of the league know, Eaton went on to become one of the best defensive players to ever play the sport, racking up a record 14 blocks in one game and setting a record for single season blocks (456) that has yet to be broken.
+As fans of the league know, Eaton went on to become one of the best defensive players to ever play the sport, racking up a record 14 blocks in one game and setting a record for single-season blocks (456) that has yet to be broken.
 
 {% include pullquote.html %}
 
@@ -41,7 +41,7 @@ So here are Eaton’s four commitments as applied to the real estate industry:&n
 <ul>
 <li><strong>Know your job.</strong> Study scripts, do your roleplays, etc. Day in and day out, do whatever you must to master the craft.&nbsp;</li>
 
-<li><strong>Do as you’re asked.</strong> There’s a lot of noise out from supposed gurus telling you how to excel in this industry, but focus only on what clients are asking you to do for them.&nbsp;</li>
+<li><strong>Do as you’re asked.</strong> There’s a lot of noise from supposed gurus telling you how to excel in this industry, but focus only on what clients are asking you to do for them.&nbsp;</li>
 
 <li><strong>Make people around you look good.</strong> Be positive. If you’re cross-selling with someone, don’t drag them down or be dragged down to their level. Don’t blame anybody, either.&nbsp;</li>
 
