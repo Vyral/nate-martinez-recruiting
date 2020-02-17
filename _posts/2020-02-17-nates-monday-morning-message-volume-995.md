@@ -41,6 +41,6 @@ All the faces in the world are mirrors. What kind of reflections do you see in t
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
-**PS** **you are invited to our first business planning workshop in the new decade\! This is the best time of year to start preparing for the upcoming selling season and we would love to have you there.&nbsp;[**Click here**](https://www.eventbrite.com/e/3-hour-business-planning-workshop-happy-hour-tickets-93551987513)&nbsp;to find out more details and mark your calendar for March 11th at 3:30pm.&nbsp;**
+**PS** **you are invited to our first business planning workshop in the new decade\! This is the best time of year to start preparing for the upcoming selling season and we would love to have you there.&nbsp;[\*\*Click here\*\*](https://www.eventbrite.com/e/3-hour-business-planning-workshop-happy-hour-tickets-93551987513)&nbsp;to find out more details and mark your calendar for March 11th at 3:30pm.&nbsp;**
 
 Copyright &copy; 2020 Nate Martinez. All rights reserved.
