@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Nate's Monday Morning Message
 date: 2020-02-17 00:00:00
 tags:
   - Nate's Monday Morning Message
