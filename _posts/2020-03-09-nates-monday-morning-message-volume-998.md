@@ -53,7 +53,7 @@ Believe in yourself,&nbsp;<br>Dare to be whatever you want to be\!
 
 **WORDS OF INSPIRATION**
 
-“True happiness... is not attained through self-gratification, but through fidelity to a worthy purpose.” – Helen Keller
+“True happiness… is not attained through self-gratification, but through fidelity to a worthy purpose.” – Helen Keller
 
 “Some cause happiness wherever they go; others whenever they go.” – Oscar Wilde
 
