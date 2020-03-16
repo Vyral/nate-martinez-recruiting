@@ -25,7 +25,7 @@ As this last week unfolded, I was reminded how important it is to slow down, smi
 
 **ENCOURAGEMENT CORNER**
 
-24 Thoughts Never to Forget...
+24 Thoughts Never to Forget…
 
 Your presence is a present to the world. You're unique and one of a kind. Your life can be what you want it to be.
 
