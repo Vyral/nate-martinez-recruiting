@@ -47,7 +47,7 @@ Ideas for you and your family while practicing social distancing:
 
 “People who have good relationships at home are more effective in the marketplace.” - Zig Ziglar
 
-“To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.” - Buddha
+“To keep the body in good health is a duty… otherwise we shall not be able to keep our mind strong and clear.” - Buddha
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
