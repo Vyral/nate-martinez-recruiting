@@ -33,19 +33,19 @@ Before you read on, I’d like to ask again this week: How are you doing? How is
 
 **3\. Focus on the Present:***“Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.”*
 
-**4\. The Imagination is Powerful***\:**“Imagination is everything. It is the preview of life's coming attractions. Imagination is more important than knowledge.”*
+**4\. The Imagination is Powerful***\:\*\*“Imagination is everything. It is the preview of life's coming attractions. Imagination is more important than knowledge.”*
 
-**5\. Make Mistakes***\:**“A person who never made a mistake never tried anything new.”*
+**5\. Make Mistakes***\:\*\*“A person who never made a mistake never tried anything new.”*
 
-**6\. Live in the Moment***\:**“I never think of the future - it comes soon enough.”*
+**6\. Live in the Moment***\:\*\*“I never think of the future - it comes soon enough.”*
 
-**7\. Create Value***\:**“Strive not to be a success, but rather to be of value."*
+**7\. Create Value***\:\*\*“Strive not to be a success, but rather to be of value."*
 
-**8\. Don’t Expect Different Results***\:**“Insanity: doing the same thing over and over again and expecting different results.”*
+**8\. Don’t Expect Different Results***\:\*\*“Insanity: doing the same thing over and over again and expecting different results.”*
 
-**9\. Knowledge Comes from Experience*\: ****“Information is not knowledge. The only source of knowledge is experience.”*
+*\*9. Knowledge Comes from Experience*\: *\*\**“Information is not knowledge. The only source of knowledge is experience.”\*
 
-**10\. Learn the Rules and Then Play Better***”**“You have to learn the rules of the game. And then you have to play better than anyone else.”*
+**10\. Learn the Rules and Then Play Better***”\*\*“You have to learn the rules of the game. And then you have to play better than anyone else.”*
 
 &nbsp;
 
