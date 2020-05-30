@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nate''s Monday Morning Message Volume 1,010'
-date: 2020-05-25 00:00:00
+date: 2020-06-01 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
