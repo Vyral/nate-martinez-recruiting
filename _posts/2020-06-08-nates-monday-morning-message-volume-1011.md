@@ -51,7 +51,7 @@ Welcome to this week’s Monday Morning Message…the events that have unfolded 
 
 *Today stretches ahead of me, waiting to be shaped, and I am the sculptor who gets to do the shaping.*
 
-*Today, my attitude is the difference. I get to choose what kind of day I will have\! It is up to me. *
+\*Today, my attitude is the difference. I get to choose what kind of day I will have\! It is up to me. \*
 
 **WORDS OF INSPIRATION**
 
@@ -61,7 +61,7 @@ Welcome to this week’s Monday Morning Message…the events that have unfolded 
 
 “Yesterday is not ours to recover, but tomorrow is ours to win or lose.” – Lyndon B. Johnson
 
-PS You Are Invited: **We are kicking off the Complete Agent Development Program known as Momentum with the first class - Understanding the Sales Game.****This is a great time to fine tune your goals and get on track for the "bounce" back in the market. This is one of our favorites to present because it’s a game changer\! It’s all happening tomorrow, June 9th at 9am\!****[Click here](https://www.facebook.com/events/281813372994835/) to sign up\! **
+PS You Are Invited: **We are kicking off the Complete Agent Development Program known as Momentum with the first class - Understanding the Sales Game.****This is a great time to fine tune your goals and get on track for the "bounce" back in the market. This is one of our favorites to present because it’s a game changer\! It’s all happening tomorrow, June 9th at 9am\!**\*\*[Click here](https://www.facebook.com/events/281813372994835/) to sign up\! \*\*
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
