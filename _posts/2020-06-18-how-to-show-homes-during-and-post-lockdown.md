@@ -18,7 +18,7 @@ youtube_code: mm7lN0mMzhI
 
 {% include youtube.html %}
 
-This is how we show homes during and after lockdown.
+<p style="text-align: center;"><em>This is how we show homes during and after lockdown.</em></p>
 
 Lockdowns are easing, but the coronavirus is still making people sick, so how can you show listings during and post-lockdown?&nbsp;
 
