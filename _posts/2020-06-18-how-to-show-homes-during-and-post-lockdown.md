@@ -22,7 +22,7 @@ youtube_code: mm7lN0mMzhI
 
 Lockdowns are easing, but the coronavirus is still making people sick, so how can you show listings during and post-lockdown?&nbsp;
 
-**When the pandemic hit the U.S., we stepped up our marketing game.** For higher-end homes, we hire professional photographers who take daylight, evening, and sunset photos. We make videos and added 3D Matterport tours. We wanted to give people the option of walking through a house without physically being there, and make them feel comfortable.
+**When the pandemic hit the U.S., we stepped up our marketing game.** For higher-end homes, we hire professional photographers who take daylight, evening, and sunset photos. We wanted to give people the option of walking through a house without physically being there, and make them feel comfortable.
 
 As an example of what we do, we had a seller contact us because they were canceling their listing with their previous real estate agent, as they weren’t providing good enough service. We got together in a Zoom call, and I gave them a complete listing presentation and showed them examples of our Matterport videos. We decided to price the property at $675,000 and luckily were able to host a physical open house because restrictions had been eased by then.
 
