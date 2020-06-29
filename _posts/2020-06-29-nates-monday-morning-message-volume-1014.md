@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nate''s Monday Morning Message Volume 1,014'
-date: 2020-06-25 00:00:00
+date: 2020-06-29 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
@@ -35,7 +35,7 @@ And is it pride? Ah, that bright crown<br>Has seemed to nations sweet;<br>But Go
 
 Not gold but only men can make<br>A people great and strong;<br>Men who for truth and honor's sake<br>Stand fast and suffer long.
 
-Brave men who work while others sleep,<br>Who dare while others fly...<br>They build a nation's pillars deep<br>And lift them to the sky.
+Brave men who work while others sleep,<br>Who dare while others fly…<br>They build a nation's pillars deep<br>And lift them to the sky.
 
 Source:&nbsp;[https://www.familyfriendpoems.com/poem/a-nations-strength-by-william-ralph-emerson](https://www.familyfriendpoems.com/poem/a-nations-strength-by-william-ralph-emerson)
 
