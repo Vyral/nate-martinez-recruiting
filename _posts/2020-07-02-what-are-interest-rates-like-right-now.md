@@ -7,7 +7,7 @@ tags:
 hidden: false
 excerpt: Interest rates are vital in real estate. Here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+Interest+Rates.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+Interest+Rates+2.mp4
 pullquote: >-
   Interest rates are currently around 3.5%; when I bought my first home around
   40 years ago, I paid roughly 11%.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: D2WRJiWnECI
+youtube_code: yUJvrFpOzMQ
 ---
 
 {% include youtube.html %}
