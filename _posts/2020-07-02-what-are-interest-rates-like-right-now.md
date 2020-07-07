@@ -22,7 +22,7 @@ youtube_code: yUJvrFpOzMQ
 
 <p style="text-align: center;"><em>Interest rates are vital in real estate. Here’s why.</em></p>
 
-Interest rate fluctuations are always a necessary topic in real estate. Last August, interest rates reached the low to mid-threes, but in June of last year, they were still up around 4.5%. **This April, interest rates were the lowest they’ve been in 30 years at 3.5%.&nbsp;**
+Interest rate fluctuations are always a necessary topic in real estate. In June, interest rates reached the low to mid-threes, but in June of last year, they were still up around 4.5%. **This April, interest rates were the lowest they’ve been in 30 years at 3.5%.&nbsp;**
 
 One of our lenders recently quoted rates as low as 2.5% on a 30-year fixed mortgage. For comparison, when I bought my first house about 40 years ago, I paid approximately an 11% interest rate.&nbsp;
 
