@@ -27,9 +27,9 @@ To pay back the reduced or delayed payments, **the mortgage provider could add t
 
 {% include pullquote.html %}
 
-If one of your clients is applying for forbearance, advise them to contact their mortgage company, who should already have information packets already, and help guide them through the process.&nbsp;
+If one of your clients is applying for forbearance, advise them to contact their mortgage company, who should already have information packets, and help guide them through the process.&nbsp;
 
-One great thing is that t**he C.A.R.E.S Act states that it won’t affect your clients’ credit scores**, but I’d recommend that your clients start checking their credit as soon as they get their forbearance agreement. Right now, through Equifax, Experian, and TransUnion, you can get a free annual credit report, or you can also visit [www.AnnualCreditReport.com](http://www.annualcreditreport.com) to sign up for a weekly credit report up until April 2021.
+One great thing is that **the C.A.R.E.S Act states that it won’t affect your clients’ credit scores**, but I’d recommend that your clients start checking their credit as soon as they get their forbearance agreement. Right now, through Equifax, Experian, and TransUnion, you can get a free annual credit report, or you can also visit [www.AnnualCreditReport.com](http://www.annualcreditreport.com) to sign up for a weekly credit report up until April 2021.
 
 For more useful information to pass on to your clients regarding forbearance, click here.
 
