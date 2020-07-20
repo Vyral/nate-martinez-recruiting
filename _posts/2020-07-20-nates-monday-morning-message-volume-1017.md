@@ -19,7 +19,7 @@ youtube_code:
 
 ## **Nate’s Monday Morning Message<br>Volume 1,017**
 
-Welcome to this week’s Monday Morning Message and another week filled with countless opportunities\! I hope that you were able to recharge over the weekend and that each of you reading this is healthy and safe. I found the poem below while preparing for this email, and I thought it was relevant for the climate we are in. There is no goal to extreme...Let’s make it a great week\!&nbsp;
+Welcome to this week’s Monday Morning Message and another week filled with countless opportunities\! I hope that you were able to recharge over the weekend and that each of you reading this is healthy and safe. I found the poem below while preparing for this email, and I thought it was relevant for the climate we are in. There is no goal to extreme…Let’s make it a great week\!&nbsp;
 
 **ENCOURAGEMENT CORNER**
 
