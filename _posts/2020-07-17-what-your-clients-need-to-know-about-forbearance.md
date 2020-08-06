@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Your Clients Need to Know About Forbearance
-date: 2020-07-17 16:26:43
+date: 2020-07-17 16:26:00
 tags:
   - Listing Presentation
 excerpt: Here’s what you need to help your clients understand about forbearance.
@@ -19,7 +19,7 @@ youtube_code: AO01x0R4lF0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to help your clients understand about forbearance.</em></p>
+*Here’s what you need to help your clients understand about forbearance.*
 
 The C.A.R.E.S Act provides all homeowners who have lost their jobs due to COVID-19 with the ability to apply for forbearance. In short, forbearance is an agreement between a borrower and their mortgage provider that states the borrower will reduce or delay your mortgage payments for up to 12 months.
 
@@ -31,6 +31,6 @@ If one of your clients is applying for forbearance, advise them to contact their
 
 One great thing is that **the C.A.R.E.S Act states that it won’t affect your clients’ credit scores**, but I’d recommend that your clients start checking their credit as soon as they get their forbearance agreement. Right now, through Equifax, Experian, and TransUnion, you can get a free annual credit report, or you can also visit [www.AnnualCreditReport.com](http://www.annualcreditreport.com) to sign up for a weekly credit report up until April 2021.
 
-For more useful information to pass on to your clients regarding forbearance, click here.
+For more useful information to pass on to your clients regarding forbearance, [click here](https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Forbearance+is+Not+Forgiveness+&#40;2&#41;+&#40;3&#41;.pdf).
 
 If you have any questions, don’t hesitate to reach out to me. I’d love to help you.
