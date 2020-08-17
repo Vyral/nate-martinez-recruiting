@@ -6,7 +6,8 @@ tags:
   - Transaction Management
 hidden: false
 excerpt: 'Just like all industries, the home warranty business has adapted to COVID.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+How+COVID+Has+Affected+Us.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: sEmGAM2wSP4
 
 {% include youtube.html %}
 
-Just like all industries, the home warranty business has adapted to COVID.
+<p style="text-align: center;"><em>Just like all industries, the home warranty business has adapted to COVID.</em></p>
 
 COVID has affected every facet of our lives, and real estate is no different. What about the home warranty business, though? With more and more people working from home, home warranty providers are experiencing an unprecedented number of claims. Today I’m joined by my friend and home warranty specialist Travis Zimmerman to explain how they’ve adapted to the situation.&nbsp;
 
