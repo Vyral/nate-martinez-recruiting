@@ -7,13 +7,13 @@ tags:
 hidden: false
 excerpt: 'Just like all industries, the home warranty business has adapted to COVID.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+How+COVID+Has+Affected+Us.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+How+COVID+Has+Affected+Us+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sEmGAM2wSP4
+youtube_code: ftyRg9Fy7pw
 ---
 
 {% include youtube.html %}
