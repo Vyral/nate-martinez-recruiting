@@ -37,7 +37,7 @@ This story teaches two lessons:
 
 2\. A destructive word to someone who is down can be what it takes to kill them. Be careful of what you say.
 
-Speak life to those who cross your path. The power of words...it is sometimes hard to understand that an encouraging word can go such a long way. Anyone can peak words that tend to rob another of the spirit to continue in difficult times. Special is the individual who will take the time to encourage another. Author Unknown
+Speak life to those who cross your path. The power of words…it is sometimes hard to understand that an encouraging word can go such a long way. Anyone can peak words that tend to rob another of the spirit to continue in difficult times. Special is the individual who will take the time to encourage another. Author Unknown
 
 **WORDS OF INSPIRATION**
 
