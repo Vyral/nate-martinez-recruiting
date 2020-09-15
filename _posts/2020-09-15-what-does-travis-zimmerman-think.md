@@ -1,11 +1,6 @@
 ---
 layout: post
-title: >-
-  Travis Zimmerman is a good friend of mine and a great insurance provider. We
-  caught up for a few minutes recently, and I wanted to share that conversation
-  with you today. We talked about some of the effects that COVID has had on
-  industries like real estate, home warranty, and the restaurant business. To
-  hear our full conversation, watch this short video.
+title: What Does Travis Zimmerman Think?
 date: 2020-09-15 16:57:21
 tags:
   - Real Estate
@@ -18,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: qrc3ACRRHFE
 ---
 
 {% include youtube.html %}
 
-Here’s my latest full conversation with my good friend Travis Zimmerman.
+<p style="text-align: center;"><em>Here’s my latest full conversation with my good friend Travis Zimmerman.</em></p>
 
 I recently had the opportunity to sit down with Travis Zimmerman of Blank Insurance to talk about several different topics.&nbsp;
 
