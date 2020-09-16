@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does Travis Zimmerman Think?
+title: What Does an Insurance Expert Think?
 date: 2020-09-15 16:57:21
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: qrc3ACRRHFE
 
 I recently had the opportunity to sit down with Travis Zimmerman of Blank Insurance to talk about several different topics.&nbsp;
 
-He got a text recently from a good friend at a home warranty company who said that July 2020 was their best revenue month in the history of the company. However, it was also the lowest profit margin that they’ve ever had. Due to scarcity, **the frequency of claims is up, replace vs. repair is up, and the average cost per claim is up.**
+He got a text recently from a good friend at a home warranty company who said that July 2020 was their best revenue month in the history of the company. However, it was also the lowest profit margin that they’ve ever had. Due to scarcity, **the frequency of claims is up, replace versus repair is up, and the average cost per claim is up.**
 
 {% include pullquote.html %}
 
