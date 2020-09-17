@@ -8,7 +8,7 @@ hidden: false
 excerpt: Here’s my latest full conversation with my good friend Travis Zimmerman.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2020/Nate+Martinez+Recruiting+Home+Warranties.mp4
-pullquote:
+pullquote: Travis continues to help me and my clients achieve our goals.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
