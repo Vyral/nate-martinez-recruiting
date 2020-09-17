@@ -20,7 +20,7 @@ youtube_code: qrc3ACRRHFE
 
 <p style="text-align: center;"><em>Here’s my latest full conversation with my good friend Travis Zimmerman.</em></p>
 
-I recently had the opportunity to sit down with Travis Zimmerman of Blank Insurance to talk about several different topics.&nbsp;
+I recently had the opportunity to sit down with Travis Zimmerman of One Guard Home Warranty to talk about several different topics.&nbsp;
 
 He got a text recently from a good friend at a home warranty company who said that July 2020 was their best revenue month in the history of the company. However, it was also the lowest profit margin that they’ve ever had. Due to scarcity, **the frequency of claims is up, replace versus repair is up, and the average cost per claim is up.**
 
