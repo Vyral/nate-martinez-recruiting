@@ -15,6 +15,8 @@ youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code:
 ---
 
+\]\]\]\\
+
 ![](/uploads/020406-nmmm-v1.png){: width="960" height="960"}
 
 ## **Nate’s Monday Morning Message<br>Volume 1,029**
@@ -47,7 +49,7 @@ Source: [https://www.bizmove.com](https://www.bizmove.com)
 
 “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.” - Dale Carnegie
 
-“Courage is being scared to death... and saddling up anyway.” - John Wayne
+“Courage is being scared to death… and saddling up anyway.” - John Wayne
 
 “You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.” - Aristotle
 
