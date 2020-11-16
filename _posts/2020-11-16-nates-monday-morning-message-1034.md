@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message
+title: 'Nate''s Monday Morning Message 1,034'
 date: 2020-11-16 00:00:00
 tags:
   - Nate's Monday Morning Message
