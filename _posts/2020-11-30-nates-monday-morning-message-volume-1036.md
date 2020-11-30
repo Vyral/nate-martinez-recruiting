@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code:
 ---
 
-![](/uploads/020406-nmmm-v1.png){: width="960" height="960"}
+&nbsp;
 
 ## **Nate’s Monday Morning Message<br>Volume 1,036**
 
