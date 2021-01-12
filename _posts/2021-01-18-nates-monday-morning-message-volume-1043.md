@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nate''s Monday Morning Message Volume 1,042'
+title: 'Nate''s Monday Morning Message Volume 1,043'
 date: 2021-01-18 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -17,7 +17,7 @@ youtube_code:
 
 ![](/uploads/020406-nmmm-v1-1.png){: width="960" height="960"}
 
-## **Nate’s Monday Morning Message<br>Volume 1,042**
+## **Nate’s Monday Morning Message<br>Volume 1,043**
 
 Welcome to this week’s Monday Morning Message\! We are halfway through the first month of the New Year – how is it going so far? Today I want to write about time and more importantly time management – for years we have focused on managing time, to only realize that we can’t actually manage time. Every day the sun comes up and goes down leaving us with a mere twenty-four hours in the day to live a life on purpose. What can we do instead to be effective with our limited hours in each day? We can focus our efforts on how and what we are doing, who we are spending it with and what we say yes or no to.
 
