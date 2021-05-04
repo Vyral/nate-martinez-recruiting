@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Effect of Rising Lumber Costs
-date: 2021-05-04 15:08:51
+date: 2021-05-04 15:08:00
 tags:
-hidden: true
+hidden: false
 excerpt: 'Lumber prices are increasing, and this trend will only continue'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2021/The+Effect+of+Rising+Lumber+Costs.mp4
