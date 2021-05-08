@@ -28,8 +28,6 @@ Last summer we were gifted with the first grandson and the next to carry the Mar
 
 I can’t repay the lessons<br>That you taught when I was small,<br>Or give you gift for gift,<br>The daily treasures I recall;<br>I can’t return encouragement<br>Or loving words of praise<br>In quite the way you did for me<br>Through all my childhood days.<br>But there’s one gift that I can give:<br>It’s all the love you’ve earned -<br>For love is what you always taught,<br>And love is what I learned.
 
-&nbsp;
-
 **WORDS OF INSPIRATION**
 
 “Sometimes the strength of motherhood is greater than natural laws.” - Barbara Kingsolver
