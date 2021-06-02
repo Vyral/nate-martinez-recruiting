@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Unique Home-Buying Strategy That Works in This Market
-date: 2021-06-02 13:17:56
+date: 2021-06-02 13:17:00
 tags:
   - Market Update
 hidden: false
 excerpt: Here’s a strategy we’ve been using to help our homebuyer clients win.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2021/A+Unique+Home-Buying+Strategy+That+Works+in+This+Market+(1).mp4
 pullquote: Every single person wins in this situation.
 enclosure_type: video/mp4
 enclosure_time:
