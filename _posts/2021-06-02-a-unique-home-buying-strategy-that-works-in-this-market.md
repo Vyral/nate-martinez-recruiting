@@ -21,7 +21,7 @@ youtube_code: c_q29B65Zzk
 
 Over the last 35 years, I’ve negotiated thousands of real estate deals. In the last few months, we’ve had to start using different strategies to help our homebuyer clients succeed in this extremely competitive market.&nbsp;
 
-**One of the most successful strategies has been our use of private financing.** We’re using more hard-money loans to get offers accepted. We put down at least 20% to the lender, agree on terms (which can be from 9.5% interest rate). We were recently working with an investor who was having loan challenges. We were able to use hard money to get the offer accepted and refinanced to a much better rate once the offer was accepted.
+**One of the most successful strategies has been our use of private financing.** We’re using more hard-money loans to get offers accepted. We put down at least 20% to the lender and agree on terms (which can start at a 9.5% interest rate). We were recently working with an investor who was having loan challenges. We were able to use hard money to get the offer accepted and refinanced to a much better rate once the offer was accepted.
 
 {% include pullquote.html %}
 
