@@ -30,7 +30,7 @@ I am an American.<br>That’s the way most us put it, just matter of factly.<br>
 
 “The Constitution only gives people the right to pursue happiness. You have to catch it yourself.” – Benjamin Franklin
 
-“Every human has four endowments - self-awareness, conscience, independent will and creative imagination. These give us the ultimate human freedom... The power to choose, to respond, to change.” - Stephen Covey
+“Every human has four endowments - self-awareness, conscience, independent will and creative imagination. These give us the ultimate human freedom… The power to choose, to respond, to change.” - Stephen Covey
 
 “Our greatest happiness does not depend on the condition of life in which chance has placed us, but is always the result of a good conscience, good health, occupation, and freedom in all just pursuits.” - Thomas Jefferson
 
