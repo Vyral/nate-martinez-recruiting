@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,066
+title: Nate's Monday Morning Message Volume 1,067
 date: 2021-07-05 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -16,7 +16,7 @@ youtube_code:
 ---
 ![](/uploads/020406-nmmm-v1-1.png){: width="960" height="960"}
 
-## **Nate’s Monday Morning Message<br>Volume 1,066**
+## **Nate’s Monday Morning Message<br>Volume 1,067**
 
 Welcome to this week’s edition of Nate’s Morning Message\! I hope that each of you reading this email had a lovely weekend and if you are appreciating a day off in observation of the holiday, I hope you are spending it doing something that brings you joy. Today’s message is about freedom, which is really what the fourth of July represents. Freedom to choose; freedom to be. Freedom to say; freedom to do. Freedom to be you – what a gift that we should never take for granted. What does freedom mean to you? Let’s make it a great week\!
 
