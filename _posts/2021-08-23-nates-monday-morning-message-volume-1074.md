@@ -20,7 +20,9 @@ youtube_code:
 
 Welcome to this week’s edition of Nate’s Morning Message\! Since 1992, RE/MAX has been a proud partner of CMN Hospitals, with the RE/MAX network supporting and donating to the 170 CMN affiliate hospitals across the U.S. and Canada. All year round – and especially during the Month of Miracles every August – we set a company goal of $25,000 this year to benefit our local Phoenix Children’s Hospital. We are hosting a **live auction on Friday, August 27th starting at 6pm at The Lola at Westgate**. We have more than thirty amazing donation items ranging from fun family-friendly baskets, tickets to sporting events, autographed swag, and so much more\! Its all for a good cause and we’d like to invite you to join us for the fun and fundraising to support our goal of $25,000 to PCH. If you have any questions, please don’t hesitate to reach out. I hope to see you there\! Let’s make it a great week\!
 
-PS We have another awesome continuing education class coming up next week and YOU ARE INVITED\!
+PS If you are unable to attend, but would like to support our fundraising efforts, you can donate online at: [https://rem.ax/PCHPros2021](https://rem.ax/PCHPros2021?fbclid=IwAR0IP1pZ2GT9zuhZPPaVEISt9S7-iMBgj5uCpmGBZZ7IZBxTVq2ZN64Qq04){: target="_blank"} - we appreciate your support and so do the kiddos\!
+
+PSS We have another awesome continuing education class coming up next week and YOU ARE INVITED\!
 
 **Thursday, August 26th from 9am-12noon online only**\: New Home Construction for Real Estate Agents. 3 hours of Disclosure presented by Paul Staron. $10 will be donated to Phoenix Children’s Hospital for the Month of Miracles\! [Click here](https://www.facebook.com/events/808267133165679?active_tab=about) to RSVP\!
 
