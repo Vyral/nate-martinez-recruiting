@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our New Book Is a Bestseller
-date: 2021-08-20 16:27:20
+date: 2021-08-26 12:00:00
 tags:
   - Real Estate
   - Lead Generation
