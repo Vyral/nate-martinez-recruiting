@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate's Monday Morning Message Volume 1,075
-date: 2021-08-16 00:00:00
+date: 2021-08-30 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
@@ -38,4 +38,4 @@ A few years ago, I was circling the block to find a parking space so I could get
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
-Copyright &copy; 2021 Nate Martinez. All rights reserved.
+Copyright © 2021 Nate Martinez. All rights reserved.
