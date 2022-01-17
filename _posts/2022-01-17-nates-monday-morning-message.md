@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message
+title: Nate's Monday Morning Message Volume 1,095
 date: 2022-01-17 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -34,7 +34,7 @@ I have a dream that one day even the state of Mississippi, a state sweltering wi
 
 I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.
 
-I have a&nbsp;*dream*&nbsp;today\!
+I have a *dream* today\!
 
 **WORDS OF INSPIRATION**
 
@@ -46,4 +46,4 @@ I have a&nbsp;*dream*&nbsp;today\!
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
-Copyright &copy; 2022 Nate Martinez. All rights reserved.
+Copyright © 2022 Nate Martinez. All rights reserved.
