@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate's Monday Morning Message Volume 1,104
-date: 2022-03-14 00:00:00
+date: 2022-03-21 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
