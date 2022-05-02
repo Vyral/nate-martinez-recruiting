@@ -38,9 +38,7 @@ permalink: /meet-our-owner/
 
 <img src="/img/CMNH.jpg" class="community">
 
-<p>In addition to the numerous activities and organizations our Agents are involved with individually throughout the Valley, RE/MAX Professionals is a strong supporter of the Children's Miracle Network ("CMN"- benefiting Phoenix Children's Hospital locally) and the Susan G. Komen foundation. RE/MAX agents have raised more than $147 million for Children's Miracle Network for over 170 hospitals. We are proud to be affiliated with both organizations that make a huge difference in how we live our lives. RE/MAX Professionals and its agents contributed over $40,000 in 2016 alone and we continue to each year.</p>
-
-<img src="/img/cure.jpg" class="community">
+<p>In addition to the numerous activities and organizations our Agents are involved with individually throughout the Valley, RE/MAX Professionals is a strong supporter of the Children's Miracle Network ("CMN"- benefiting Phoenix Children's Hospital locally). RE/MAX agents have raised more than $147 million for Children's Miracle Network for over 170 hospitals. We are proud to be affiliated with both organizations that make a huge difference in how we live our lives. RE/MAX Professionals and its agents contributed over $40,000 in 2016 alone and we continue to each year.</p>
 
 <p>Whether it's leading a Boy Scouts or Girl Scouts troop, organizing community physical wellness events and holiday celebrations, coaching and funding Little League teams, holding food drives or clothing and toy drives, participating in church outreach groups, or the direct monetary donations that are made from each property closing, RE/MAX Professionals and our Agents are actively involved every day in making our communities stronger and more vibrant!</p>
 
@@ -48,5 +46,5 @@ permalink: /meet-our-owner/
 <p>Click on an area below to view lists of our agents and learn more about them:
 
 <br><br>
-<a href="http://www.remax.com/realestateagentoffice/p001.html?query=rnd-sortorder/60050042-officeid" target="_blank">Arrowhead</a> | <a href="http://www.remax.com/realestateagentoffice/p001.html?query=rnd-sortorder/60050360-officeid" target="_blank">Northwest Valley</a> | <a href="http://www.remax.com/realestateagentoffice/p001.html?query=rnd-sortorder/60050361-officeid" target="_blank">Southwest Valley</a>
+<a href="https://www.remax.com/real-estate-offices/remax-professionals-glendale-az/100423313" target="_blank">Arrowhead</a> | <a href="https://www.remax.com/real-estate-offices/remax-professionals-surprise-az/100423537" target="_blank">Northwest Valley</a> | <a href="https://www.remax.com/real-estate-offices/remax-professionals-avondale-az/100423314" target="_blank">Southwest Valley</a>
 </p>
