@@ -33,13 +33,6 @@ permalink: /partners/
 		<a href="mailto:Breanna.castro@oneguardhw.com">Breanna.castro@oneguardhw.com</a><br>
 		<a href="https://www.oneguardhomewarranty.com">www.oneguardhomewarranty.com</a>
 		</p>
-
-		<!-- <a href="https://www.oneguardhomewarranty.com"><img src="" class="vendor-logo center"></a><br>
-		<p class="center"><strong>Shelly Schroff </strong><br>
-		<a href="tel:1-623-552-6763">623-552-6763</a><br>
-		<a href="mailto:s.schroff@oneguardhw.com">s.schroff@oneguardhw.com</a><br>
-		<a href="https://www.oneguardhomewarranty.com">www.oneguardhomewarranty.com</a>
-		</p> -->
 	</div>
 
 <hr class="partner-hr">
