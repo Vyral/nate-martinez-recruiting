@@ -6,14 +6,13 @@ tags:
   - Lead Conversion
 hidden: false
 excerpt: If your buyer plans to wait out the market, here’s what you should say.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Recruiting/2022/How+To+Respond+to+a+Buyer+Who+Wants+To+Wait+(1).mp4
+enclosure:
 pullquote: Your clients don’t have time to wait—they need to act now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uED9-eqQ2hE
+youtube_code: Co8c9ff5ju8
 ---
 {% include youtube.html %}
 
