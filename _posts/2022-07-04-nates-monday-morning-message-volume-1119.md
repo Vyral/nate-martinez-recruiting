@@ -22,7 +22,7 @@ Welcome to this week’s edition of Nate’s Morning Message…I hope this email
 
 **ENCOURAGEMENT CORNER&nbsp;**
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YeeRxsDcgQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[![](/uploads/screenshot-2022-07-03-10-06-31.png){: width="865" height="660"}](https://youtu.be/YeeRxsDcgQg){: target="_blank" rel="noopener"}
 
 **WORDS OF INSPIRATION**
 
