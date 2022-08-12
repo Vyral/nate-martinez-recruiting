@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buyers: Prices Are Down in the Phoenix Market'
+title: Prices Are Down in the Phoenix Market
 date: 2022-08-09 00:00:00
 tags:
   - Buyer Prospects
