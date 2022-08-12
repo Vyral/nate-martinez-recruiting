@@ -18,7 +18,7 @@ youtube_code: 2nPvqApMbtg
 
 {% include excerpt.html %}
 
-Due to rising interest rates, many buyers have been on the fence with their purchasing plans. However, now that the market has shifted, is it the right time for them to continue their real estate plans? To answer this question, we’ll compare the current market with that of a few months ago.
+Due to rising interest rates, many buyers have been on the fence with their purchasing plans. However, now that the market has shifted, is it the right time for them to pursue their real estate goals once again? To answer this question, we’ll compare the current market with that of a few months ago.
 
 Back in January, the market was so hot that homes received multiple offers, and buyers were willing to pay above list price. Now, the conditions are much different. **Buyers can get the house for its market value or less**, and they may even negotiate a seller’s concession.
 
