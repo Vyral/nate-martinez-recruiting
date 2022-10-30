@@ -18,7 +18,7 @@ youtube_code:
 
 ## **Nate’s Monday Morning Message<br>Volume 1,136**
 
-Welcome to this week’s edition of Nate’s Morning Message\! This weekend has been filled with spooky good times and tonight the happy little gools will make their way through the streets of our communities looking to fill their bags with sweet treats. Please be on the lookout and keep everyone safe as they celebrate Halloween night. This the official kick-off of the holiday season, and before we know it we will be ringing in the New Year. Let’s enjoy every moment of the next sixty-one days\! Happy Halloween - let’s make it a great week\!
+Welcome to this week’s edition of Nate’s Morning Message\! This weekend has been filled with spooky good times and tonight the happy little ghouls will make their way through the streets of our communities looking to fill their bags with sweet treats. Please be on the lookout and keep everyone safe as they celebrate Halloween night. This the official kick-off of the holiday season, and before we know it we will be ringing in the New Year. Let’s enjoy every moment of the next sixty-one days\! Happy Halloween - let’s make it a great week\!
 
 **ENCOURAGEMENT CORNER&nbsp;**
 
