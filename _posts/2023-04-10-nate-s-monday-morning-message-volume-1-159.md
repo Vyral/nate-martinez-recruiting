@@ -32,7 +32,7 @@ We are excited to invite you to see Verl Workman on Friday, April 14th starting 
 
 **ENCOURAGEMENT CORNER&nbsp;**
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uk9vh4stWsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+[![](/uploads/faces-of-hope.jpg){: width="1420" height="747"}](https://youtu.be/uk9vh4stWsU){: target="_blank" rel="noopener"}
 
 Source: Phoenix Children's Foundation
 
