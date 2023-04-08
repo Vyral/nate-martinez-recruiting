@@ -10,14 +10,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
-youtube_code: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/uk9vh4stWsU" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
+youtube_code:
 ---
 **Nate's Monday Morning Message Volume 1,159**
 
@@ -37,15 +32,17 @@ We are excited to invite you to see Verl Workman on Friday, April 14th starting 
 
 **ENCOURAGEMENT CORNER&nbsp;**
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uk9vh4stWsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
+
 Source: Phoenix Children's Foundation
 
 **WORDS OF INSPIRATION**
 
-“Life can only be understood backwards; but it must be lived forwards.” - Soren Kierkegaard
+"To truly feed your spirit, remember this: The secret to living is giving." - Tony Robbins
 
-“Nothing is a waste of time if you use the experience wisely.” - Auguste Rodin
+"Let us put our minds together and see what life we can make for our children." - Sitting Bull
 
-“Experience is what you get while looking for something else.” - Federico Fellini
+"He who has health, has hope; and he who has hope, has everything." - Thomas Carlyle
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
