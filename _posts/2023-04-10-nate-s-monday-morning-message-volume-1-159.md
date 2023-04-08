@@ -10,9 +10,14 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
-youtube_code:
+youtube_code: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/uk9vh4stWsU" title="YouTube video player"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
 ---
 **Nate's Monday Morning Message Volume 1,159**
 
@@ -31,8 +36,6 @@ We are excited to invite you to see Verl Workman on Friday, April 14th starting 
 ![](/uploads/230330-thrivingmarket-verl-v1.png){: width="2048" height="2048"}
 
 **ENCOURAGEMENT CORNER&nbsp;**
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uk9vh4stWsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen&gt;&lt;/iframe&gt;
 
 Source: Phoenix Children's Foundation
 
