@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/calendar-pic.jpg
+youtube_alternate_image: /uploads/calendar-pic-smaller-1920x1282.jpg
 youtube_code:
 ---
 Getting more listings is a necessary skill if you want to make more money in this industry. However, it's a lot harder to do as inventory continues to be at a record low. Even the best agents are struggling to find ways to achieve this goal and sometimes find themselves head-to-head with other real estate professionals to win the limited listings available in the market. If you want to ensure you can come out on top despite these challenges, what can you do? If you want to secure more listings, here are three things that you can do:
