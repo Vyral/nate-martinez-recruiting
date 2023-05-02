@@ -27,5 +27,3 @@ As a real estate agent, you know the business is all about helping people buy an
 **3\. Not staying on top of lead generation.** Lead generation and prospecting are the most important skills a real estate agent can have. If you don't know how to generate leads, you will have a very difficult time growing your business. The key here is finding the right prospects who are interested in buying or selling their home at this moment in time. However, also make sure you follow up with potential clients who initially expressed interest but haven't committed yet. That could mean calling back once a week or maybe sending emails every few days—whatever works best for your style.&nbsp;
 
 If you want to succeed as a real estate agent, it's important to remember that many factors can make or break your success. You need to find a balance between your money-making activities. If you have any questions or would like more information on how to improve your business, reach out to me by phone or email. I look forward to hearing from you.
-
-{% include full-post-cta.html %}
