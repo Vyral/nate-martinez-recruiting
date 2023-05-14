@@ -39,8 +39,6 @@ How to Find Inner Peace and Happiness
 * Practice Acceptance and Contentment.
 * Declutter.
 
-
-
 **WORDS OF INSPIRATION**
 
 “Peace comes from within. Do not seek it without.” – Buddha
