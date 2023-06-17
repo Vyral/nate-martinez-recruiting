@@ -22,9 +22,9 @@ Welcome to this week’s edition of Nate’s Morning Message! I read this quote 
 
 Sympathy looks in and says, “I’m**&nbsp;**sorry.” Compassion goes in and says, “I’m**&nbsp;**with you.”
 
-Sympathy looks in and says, “I would like to help.”Compassion goes in and says, “I am here to help.”
+Sympathy looks in and says, “I would like to help.” Compassion goes in and says, “I am here to help.”
 
-Sympathy says, “I wish I could carry your burden.”Compassion says, “Cast your burden on me.”
+Sympathy says, “I wish I could carry your burden.” Compassion says, “Cast your burden on me.”
 
 Sympathy often irritates many words. Compassion helps and hears in quietness and understanding.
 
