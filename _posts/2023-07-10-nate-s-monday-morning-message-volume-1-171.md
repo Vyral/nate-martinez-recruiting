@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,171
+title: Nate's Monday Morning Message Volume 1,172
 date: 2023-07-10 00:00:00
 tags:
   - Nate's Monday Morning Message
