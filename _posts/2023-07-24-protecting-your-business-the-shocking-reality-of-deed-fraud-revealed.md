@@ -21,7 +21,7 @@ Have you ever heard of deed fraud? Unfortunately, it is a very real thing in our
 
 {% include pullquote.html %}
 
-Recently, we were contacted by someone about selling their house. We went through all of the work to price it correctly, get photos taken, do marketing, and list it on the MLS. However, after all of this, we got a call from the actual homeowner—**it** **turns out we were representing a fraudulent person.&nbsp;**
+Recently, we were contacted by someone who claimed to want to sell their house. We went through all of the work to price it correctly, get photos taken, do marketing, and list it on the MLS. However, after all of this, we got a call from the actual homeowner—**it** **turns out we were representing a fraudulent person.&nbsp;**
 
 Fortunately, it was easy to unwind the work that this criminal started, but if they had gotten further into the transaction, it could’ve gotten a lot harder. **We dodged a bullet, but know that if this can happen to us after 36 years in the industry, it can happen to you.&nbsp;**
 
