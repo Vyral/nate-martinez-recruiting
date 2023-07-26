@@ -27,4 +27,8 @@ Fortunately, it was easy to unwind the work that this criminal started, but if t
 
 We were communicating with this person over the phone and online, which is common in today’s day and age. Just know that if you do that, you need to be careful. Get a copy of their photo ID and do your due diligence. Also, make sure to be educated, and you can find a lot of helpful resources online.&nbsp;
 
+I would highly encourage you to register with the links below, even if you occupy your home as your primary residence:
+
+**Maricopa County:&nbsp;**[https://recorder.maricopa.gov/MaricopaTitleAlert/Default](https://recorder.maricopa.gov/MaricopaTitleAlert/Default){: target="_blank"}<br>**Yavapai County:**&nbsp;[https://yavapaicountyaz-recorder.tylerhost.net/recorder/eagleweb/fraudGuardSignup.jsp](https://yavapaicountyaz-recorder.tylerhost.net/recorder/eagleweb/fraudGuardSignup.jsp){: target="_blank"}
+
 If you have any questions about this or if I can help you in any way, call me at (602) 430-5226. I look forward to hearing from you!
