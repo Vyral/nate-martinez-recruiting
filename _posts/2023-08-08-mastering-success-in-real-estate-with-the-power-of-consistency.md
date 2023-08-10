@@ -21,7 +21,7 @@ youtube_code: bfzq2H6oLSc
 
 {% include excerpt.html %}
 
-Today, I’m here to talk about consistency. With all of my experience as a Realtor, I know the importance of this concept. What is your routine? What do you do every day when you get up? The truth is that having a routine is crucial and all of the top-producing Realtors stick to one.&nbsp;
+Today, I’m here to talk about consistency. With all of my experience as a REALTOR®, I know the importance of this concept. What is your routine? What do you do every day when you get up? The truth is that having a routine is crucial and all of the top-producing REALTORS® stick to one.&nbsp;
 
 **One of the most important things you need to put into your routine is prospecting.** Whether it be cold calling, hosting open houses, or many other avenues, you need to be consistent with your prospecting. To help with this, I recommend a follow-up strategy that goes with the ABCs.
 
