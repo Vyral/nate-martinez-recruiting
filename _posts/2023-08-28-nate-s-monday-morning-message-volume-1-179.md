@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,179
-date: 2023-08-28 00:00:00
+title: Nate's Monday Morning Message Volume 1,180
+date: 2023-09-04 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
@@ -14,43 +14,35 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code:
 ---
-**Nate's Monday Morning Message Volume 1,179**
+**Nate's Monday Morning Message Volume 1,180**
 
-Welcome to this week’s Monday Morning Message! I hope this email finds you recharged from the weekend and ready to dive into a new week. I was hoping that we might start to see a break in the heat, but it looks like we are in for another hot one in the Valley of the Sun – but this is why we love the winters, right? Today let’s talk about fitness. I will admit I have a love-hate with working out but when I do it consistently, I notice a difference not only in my waistline but also in my attitude. We only get one body and taking care of it should be a priority. This week I’d like to challenge you to find some time for a little fitness, even if its as simple as a short walk around the block or an extra sit-up while you are watching Netflix. Take care of your body and it will take care of you. Let’s make it a great week!
+Welcome to this week’s Monday Morning Message! I hope this email finds you well and enjoying an extra day off. For the last 141 years American’s have celebrated Labor Day to honor and recognize the labor movement and the contributions of laborers who shaped the achievements of the U.S. As you fire up the BBQs this afternoon, I hope you’ll take a moment to remember those before us who paved the way. Happy Labor Day! Let’s make it a great week!
 
 **ENCOURAGEMENT CORNER&nbsp;**
 
-10 Important Life Lessons We Are Often Taught Too Late
+Traditional Labor Day Food Ideas
 
-1\. Walk your own path
+1. Pork ribs
 
-2\. Don’t hesitate when you should act
+2. Grilled skewers
 
-3\. Experience what you have learned
+3. Hot dogs
 
-4\. Good things don’t come easy
+4. Hamburgers
 
-5\. Never fail to try more
+5. Chicken wings
 
-6\. Take care of your health early
+Source: [https://www.instacart.com/company/ideas/labor-day-food-traditions/](https://www.instacart.com/company/ideas/labor-day-food-traditions/)
 
-7\. Make every moment count
 
-8\. Live and let live
-
-9\. Be flexible with your goals
-
-10\. For every action, there’s an equal opposite reaction
-
-Source: [https://www.theladders.com/career-advice/10-important-life-lessons-we-are-often-taught-too-late](https://www.theladders.com/career-advice/10-important-life-lessons-we-are-often-taught-too-late)
 
 **WORDS OF INSPIRATION**
 
-“Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.” - Denis Waitley
+“Each year, Labor Day gives us an opportunity to recognize the invaluable contributions that working men and women make to our nation, our economy and our collective prosperity. It gives us a chance to show gratitude for workers' grit, dedication, ingenuity and strength, which define our nation's character.” - Tom Perez
 
-“Exercise to stimulate, not to annihilate. The world wasn't formed in a day, and neither were we. Set small goals and build upon them.” - Lee Haney
+“Rules like 'don't wear white after Labor Day' or 'shoes matching the handbag' are antiquated. Modern women should feel free to experiment.” - Stacy London
 
-“Take care of your body. It's the only place you have to live.” - Jim Rohn
+“Labor Day is seen as a day of rest for many hardworking Americans.” - James P. Hoffa
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
