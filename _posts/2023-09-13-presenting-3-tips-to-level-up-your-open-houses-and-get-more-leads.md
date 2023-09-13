@@ -28,5 +28,3 @@ How can you get more leads in today’s competitive environment? You may think y
 **3\. Network, network, network.** The primary goal of your open house should be to provide value to your client, but that doesn’t have to be your only objective. Most people who are looking to buy a home also have a property to sell, so talk to attendees and let them know that you work with both buyers and sellers. Even adding people to your database can pay off in the long run when they eventually need to buy or sell.&nbsp;
 
 Mastering the art of the open house takes time, so if you have any questions about these tips or something else, don’t hesitate to call or email me. I hope to hear from you soon!
-
-{% include full-post-cta.html %}
