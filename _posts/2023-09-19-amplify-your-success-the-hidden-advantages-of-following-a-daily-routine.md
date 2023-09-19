@@ -13,7 +13,7 @@ enclosure:
 pullquote: A daily routine can empower you to excel in your roles.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/1920-close-up-of-blue-pen-and-coins-stack-and-house-paper-and-eyeglasses-and-calculator-on-business-book-for-mortgage-loans-concept.jpg
 youtube_code:
