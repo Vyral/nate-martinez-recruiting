@@ -16,6 +16,8 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
+![](/uploads/shutterstock-295169600.jpg){: width="5100" height="3400"}
+
 Whether you’re considering starting a real estate career or have been a solo agent for a few years, you’ve probably considered if it makes sense for you to join a team. Teams come with many benefits, but a lot of people will tell you they aren’t the way to go. The truth is that there are a lot of popular conceptions about real estate teams, and most of the negative ones aren’t true. That’s why we’re clearing the air by debunking three of the most common misconceptions about joining a real estate team:
 
 **1\. “You make less money by joining a team.”** On paper, this one seems pretty simple. Solo agents don’t need to worry about commission splits, so it appears obvious that they’d make more money. However, this isn’t always the case in practice. New solo agents lack the tools, experience, and training they need to establish their business; teams provide all of these things. By leveraging them effectively, you’re more likely to sell more homes and ultimately end up with more money.
