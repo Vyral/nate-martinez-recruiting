@@ -16,7 +16,7 @@ youtube_code:
 ---
 If you’ve been in the real estate industry for a while, you are probably all too familiar with burnout. Helping people buy and sell homes is no easy task, especially when you have to constantly be thinking about where your next paycheck is coming from. When business is flowing, it’s easy to get up early and find more leads, but business doesn’t come easy in some markets. Don’t let a down period spiral into burnout; here are three simple tips to help you stay motivated:
 
-**1\. Find your big “why”.** When you ask most agents why they went into the business, they have a simple answer, like money, freedom, or excitement. However, this isn’t usually the full story. Behind every reason for getting into real estate is a deeper, more meaningful motivation. For example, you might have gotten into the industry to make more money, but maybe that desire comes from wanting to protect your family from financial insecurity. Whatever your “why” is, having a strong reason to get up every morning can keep you going through the hard times.
+**1\. Find your big “why.”**&nbsp;When you ask most agents why they went into the business, they have a simple answer, like money, freedom, or excitement. However, this isn’t usually the full story. Behind every reason for getting into real estate is a deeper, more meaningful motivation. For example, you might have gotten into the industry to make more money, but maybe that desire comes from wanting to protect your family from financial insecurity. Whatever your “why” is, having a strong reason to get up every morning can keep you going through the hard times.
 
 {% include pullquote.html %}
 
