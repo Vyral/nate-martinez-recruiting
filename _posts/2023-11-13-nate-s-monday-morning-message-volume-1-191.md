@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate's Monday Morning Message Volume 1,191
-date: 2023-11-13 00:00:00
+date: 2023-11-20 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
@@ -10,35 +10,35 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code: https://youtu.be/R0cPEmQlE5k?feature=shared
 ---
 **Nate's Monday Morning Message Volume 1,191**
 
-Welcome to this week’s Monday Morning Message! I hope this email finds you well and ready for the blessings that lie ahead in this new week. Today, I’d like to talk about adversity – specifically asking how do you overcome it? I have been selling real estate for 36 years and I have seen every type of market – from the dot.com burst, the bubble and bust, the short sale market – and at the time, those adversities felt like they were a disaster; they felt impossible to navigate. However, looking back we always found a way to overcome it and dare I say, we came out the other side better for having experienced the challenges. What adversities do you face in your life right now? Can you see the opportunities? I’d love to hear from you. Let’s support each other, and let’s make it a great week!
+Welcome to this week’s Monday Morning Message! I hope this email finds you well and that all your preparation and planning for the holiday are underway. It will be a busy week filled with experiences that shape our memories. While it is easy to get caught up in the cooking and decorating, its important to take a few minutes this week to express your gratitude – in a world where you can be anything, having a grateful heart is a gift, not only to yourself but those around you – and I am grateful for each of you who start your day with this email. I am grateful for every client we’ve had the pleasure of serving, every agent, and my leadership team who are a part of RE/MAX Professionals. Lastly, I am grateful for my family – for without them, I would not be the man I am today. From our home to yours, we wish you a very happy, healthy and grateful Thanksgiving. Let’s make it a great week!
 
 **ENCOURAGEMENT CORNER**&nbsp;
 
-Imagine that you are juggling five balls.
+Turning Heartache Into Hope
 
-Each of them represents important parts of our life – family, health, spirit, friends and job.
+Nolan was diagnosed with kidney cancer just before his first birthday. Within a week, surgeons at Phoenix Children’s removed the tumor. It was a mass that engulfed his entire abdomen—a weight of 2.5 pounds in his 19-pound body. Click on the image to watch his story on YouTube.
 
-Four balls are made of glass and only one is made of rubber.
+[![](/uploads/nolan-ingite-hope.jpg){: width="1377" height="838"}](https://youtu.be/R0cPEmQlE5k?feature=shared){: target="_blank" rel="noopener"}
 
-We need to recognize that job is a rubber ball. While family, friends, health and spirit are very fragile, as if you drop one of them, they will be irreversibly damaged or even shattered.
+We are proud supporters of PCH, and if you inspired to make a donation, you can use this link: [https://rem.ax/PCHPros2023](https://rem.ax/PCHPros2023){: target="_blank"}. Children like Nolan rely on our fundraising efforts to provide the level of care to save his life.
 
-This understanding will help to keep the balance in your life.
+Source: [https://rem.ax/3G6qNoK](https://rem.ax/3G6qNoK)
 
-Source: [https://www.inspirationalstories.eu/inspirational-stories-about-priorities/](https://www.inspirationalstories.eu/inspirational-stories-about-priorities/)
+
 
 **WORDS OF INSPIRATION**
 
-“All the adversity I've had in my life, all my troubles and obstacles, have strengthened me… You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.” - Walt Disney
+“Gratitude is the inward feeling of kindness received. Thankfulness is the natural impulse to express that feeling. Thanksgiving is the following of that impulse.” - Henry Van Dyke
 
-“The eagle has no fear of adversity. We need to be like the eagle and have a fearless spirit of a conqueror!” - Joyce Meyer
+“Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.” - Melody Beattie
 
-“Education is an ornament in prosperity and a refuge in adversity.” - Aristotle
+“An optimist is a person who starts a new diet on Thanksgiving Day.” - Irv Kupcinet
 
 PS…Do you or someone you know have a dream to own a Bed & Breakfast – Vineyard in beautiful eastern Arizona? This is a once in a lifetime opportunity! Click the link to learn more about this property for sale in Young, Arizona. [https://myre.io/0j3naiRk8ry](https://myre.io/0j3naiRk8ry)
 
