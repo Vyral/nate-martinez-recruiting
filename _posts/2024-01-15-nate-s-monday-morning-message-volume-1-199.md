@@ -48,8 +48,6 @@ I have a dream that one day down in Alabama with its vicious racists, with its g
 
 I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight, and the glory of the Lord shall be revealed, and all flesh shall see it together.
 
-
-
 **WORDS OF INSPIRATION**
 
 “Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” - Martin Luther King, Jr.
