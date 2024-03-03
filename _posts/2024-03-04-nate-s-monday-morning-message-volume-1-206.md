@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code: https://youtu.be/R0cPEmQlE5k?feature=shared
 ---
-**Nate's Monday Morning Message Volume 1,205**
+**Nate's Monday Morning Message Volume 1,206**
 
 Welcome to this week’s Monday Morning Message. I hope this email finds you well and ready for the first week of March 2024! Today I want to talk about failure. Overcoming failure requires resilience, introspection, and a growth mindset. It's crucial to acknowledge and accept failure as a natural part of the learning process, and they are an opportunity for growth rather than a setback. Reflecting on the experience, identifying the factors that contributed to the failure, and learning from mistakes can provide valuable insights for future endeavors. Staying focused on your long-term goals and persevering through setbacks with determination and adaptability are essential for bouncing back from failure. Embrace failure as a steppingstone to success, rather than a roadblock, will empower you to turn adversity into opportunity and emerge stronger, wiser, and more resilient. Let’s make it a great week!
 
@@ -37,8 +37,6 @@ The marine biologist then removed the fiberglass divider, but the shark didn’t
 **The moral:**&nbsp; Many of us, after experiencing setbacks and failures, emotionally give up and stop trying. Like the shark in the story, we believe that because we were unsuccessful in the past, we will always be unsuccessful. In other words, we continue to see a barrier in our heads, even when no ‘real’ barrier exists between where we are and where we want to go.&nbsp;
 
 Source: https://www.marcandangel.com/2013/05/21/4-short-stories-change-the-way-you-think/&nbsp;
-
-
 
 **WORDS OF INSPIRATION**
 
