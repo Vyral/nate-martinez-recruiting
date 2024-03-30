@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,210
-date: 2024-04-01 00:00:00
+title: Nate's Monday Morning Message Volume 1,211
+date: 2024-04-15 00:00:00
 tags:
   - Nate's Monday Morning Message
 hidden: true
@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/020406-nmmm-v1.png
 youtube_code: https://youtu.be/R0cPEmQlE5k?feature=shared
 ---
-**Nate's Monday Morning Message Volume 1,210**
+**Nate's Monday Morning Message Volume 1,212**
 
 Welcome to this week’s Monday Morning Message. I hope this email finds you rejuvenated from a joyful Easter weekend! I enjoy the closeness that is felt on Easter, and remember the traditions passed down along the way with my family. As we welcome the arrival of spring, let's embrace the spirit of renewal and hope – and take time to reflect on the first quarter of 2024. What went right? What can be improved? How do you leverage the next three months to keep you on track for the life you want to live? I’d love to hear from you! Shoot me an email – how are you feeling about this year so far? Let’s make it a great week!
 
