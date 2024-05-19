@@ -18,6 +18,8 @@ youtube_code: https://youtu.be/R0cPEmQlE5k?feature=shared
 
 Welcome to this week’s Monday Morning Message! How was your weekend? Did you have some time to rest, reflect and refresh? Today I want to talk about gratitude. How do you practice gratitude? Its impossible to feel down and out when you are in gratitude. How deep do you go with gratitude? I met a guy who shared his thoughts on gratitude for a shower. As he talked, he went deep – his gratitude included the folks who made the parts for the shower, the people who work for the water company, the trenches that supply the water to the house – I could go on about who he described his gratitude – but I think you get the point. He wasn’t just grateful for the water that comes out of the faucet every morning! It shifted my perspective on how to practice gratitude and that it is so much more than the convenience of hot water. It’s a profound recognition and appreciation for the blessings, big and small, that enrich our lives each day. Gratitude fills our hearts with joy, kindness, and generosity, fostering deeper connections with ourselves, others, and the world around us. Practicing gratitude opens the door to a deeper sense of fulfillment and purpose, reminding us to pause, reflect, and savor the richness of life's experiences. What are you grateful for? Let’s make it a great week!
 
+![](/uploads/ad-food-t.jpg)
+
 **ENCOURAGEMENT CORNER**&nbsp;
 
 The Scroll Marked XI: I will act now.
