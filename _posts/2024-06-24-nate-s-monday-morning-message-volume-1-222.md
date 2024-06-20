@@ -20,11 +20,25 @@ Welcome to this week’s Monday Morning Message! I hope you had a relaxing and r
 
 **ENCOURAGEMENT CORNER**&nbsp;
 
-Penny in the Pocket
+In a small, picturesque town surrounded by rolling hills and meandering rivers, there lived a young woman named Lily. Lily had always been fiercely independent, driven by her ambition to make a name for herself in the bustling city far from her hometown. She left for the city after college, chasing dreams of a high-powered career and a life of excitement.
 
-One day, on a walk, I noticed a penny on the ground. I didn’t bother to pick it up, and that made me wonder why. Because the sum was so insignificant? I wondered, “What would I do if I found $20? Just keep walking?” Sure enough, I turned the corner and there lay $20. Long story short, I found its owner and returned it with a smile. And then a few hours later, I won $25 on a scratcher. With my pockets a little deeper, I then wondered, “What would I do if I found $1,000,000?” I’ll let you know.” — *C. Stevens, Ellwood City, Pennsylvania*
+Years passed, and Lily achieved the success she had always desired. She climbed the corporate ladder, lived in a sleek apartment with stunning views, and filled her days with meetings and social events. Yet, despite her accomplishments, there was an emptiness she couldn’t quite shake.
 
-Source: [https://www.rd.com/list/stories-about-luck/](https://www.rd.com/list/stories-about-luck/)
+One crisp autumn morning, Lily received a call from her mother, who shared the news that her grandmother had fallen ill. Her heart ached at the thought of her beloved grandmother suffering. Without hesitation, she booked a flight back to her hometown, a place she hadn't visited in years.
+
+When Lily arrived, she was greeted by the familiar faces of her family—her parents, siblings, aunts, uncles, and cousins. They embraced her warmly, and she felt a sense of belonging that had long been missing from her life. The house was filled with the comforting aroma of home-cooked meals and the sound of laughter, a stark contrast to the sterile silence of her city apartment.
+
+As the days passed, Lily spent time with her grandmother, listening to stories from her youth and soaking in the wisdom that only a lifetime of experience could provide. She helped with chores, shared meals, and reconnected with her family. The bonds she had taken for granted began to feel precious and irreplaceable.
+
+One evening, as they sat around the dinner table, Lily looked at her family and realized that her success meant little without the love and support of the people who had always been there for her. She saw the strength in their unity, the way they rallied around each other in times of need, and the joy they found in simple togetherness.
+
+Her grandmother, frail but spirited, took Lily’s hand and said, “My dear, never forget that family is the heart of who we are. We are stronger together, and no matter where life takes you, this will always be your home.”
+
+Lily’s eyes filled with tears, and she understood the profound truth in her grandmother’s words. She decided then to make family a priority, to balance her ambitions with the nurturing of those irreplaceable relationships.
+
+When she returned to the city, Lily made changes. She visited her hometown more often, called her family regularly, and even invited them to stay with her in the city. She found that her life, once solely defined by her career, was now enriched by the love and connection of her family.
+
+In the end, Lily learned that while success and independence are important, the true essence of a fulfilling life lies in the bonds we share with those we love. Family, she realized, is the foundation upon which all her dreams were built, providing the strength and support to reach for the stars while keeping her grounded in what truly matters.
 
 **WORDS OF INSPIRATION**
 
