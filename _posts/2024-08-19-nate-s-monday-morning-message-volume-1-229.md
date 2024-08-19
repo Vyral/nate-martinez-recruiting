@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,229
+title: Nate's Monday Morning Message Volume 1,230
 date: 2024-08-19 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -34,7 +34,7 @@ Source: [https://www.rd.com/list/never-too-late-change-your-life/](https://www.r
 
 “The need for connection and community is primal, as fundamental as the need for air, water, and food.” - Dean Ornish
 
-“It's a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.” - Daniel Kahneman
+“It’s a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient.” - Daniel Kahneman
 
 Nate Martinez, RE/MAX Professionals<br>www.joinremaxprofessionalsaz.com<br>623-362-3000<br>consult@rmxprofessionals.com
 
