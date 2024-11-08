@@ -18,7 +18,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/nate-martinez-yt-thumbnail-2.png
 youtube_code:
 ---
-{% include excerpt.html %}Are you just starting out in the real estate industry and don’t know how to set up a CRM?
+{% include excerpt.html %}
+
+Are you just starting out in the real estate industry and don’t know how to set up a CRM?
 
 Maybe you’ve just started your real estate journey. Maybe you’ve been in the industry a long time but haven’t gotten around to fully leveraging your database yet. Whatever your situation is, you should know that a properly set up CRM is a real estate agent’s best friend.
 
