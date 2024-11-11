@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nate's Monday Morning Message Volume 1,241
+title: Nate's Monday Morning Message Volume 1,242
 date: 2024-11-11 00:00:00
 tags:
   - Nate's Monday Morning Message
@@ -16,7 +16,7 @@ youtube_code: https://youtu.be/R0cPEmQlE5k?feature=shared
 ---
 **Nate’s Monday Morning Message Volume 1,242**
 
-Welcome to this week’s Monday Morning Message! Wishing everyone a safe and happy Veterans Day! Today, let’s take a moment to honor and thank those who have served and sacrificed to protect our freedoms. The dedication, courage, and commitment to our nation do not go unnoticed, and we are forever grateful for your service. To all veterans and their families who are reading this today, I extend a deep appreciation. May the day be filled with respect, warmth, and recognition for all you've done. Thank you for your service! Let’s make it a great week!
+Welcome to this week’s Monday Morning Message! Wishing everyone a safe and happy Veterans Day! Today, let’s take a moment to honor and thank those who have served and sacrificed to protect our freedoms. The dedication, courage, and commitment to our nation do not go unnoticed, and we are forever grateful for your service. To all veterans and their families who are reading this today, I extend a deep appreciation. May the day be filled with respect, warmth, and recognition for all you’ve done. Thank you for your service! Let’s make it a great week!
 
 **ENCOURAGEMENT CORNER**&nbsp;
 
@@ -46,7 +46,7 @@ Wasn’t she glad now? Everything seemed won,
 
 And all the rest for them permissible ease.
 
-She had to ask, "What was it, dear?"
+She had to ask, “What was it, dear?”
 
 “Enough,
 
