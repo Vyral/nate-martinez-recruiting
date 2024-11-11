@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Set Up My CRM To Manage My Contacts?
-date: 2024-11-08 00:00:00
+date: 2024-11-11 07:00:00
 tags:
   - Real Estate
 hidden: false
