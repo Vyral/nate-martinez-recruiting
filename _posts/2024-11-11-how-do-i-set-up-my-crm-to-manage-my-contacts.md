@@ -7,12 +7,10 @@ tags:
 hidden: false
 excerpt: >-
   Setting up a CRM can be confusing, but it doesn’t have to be. Today I’ll go
-  over tags, tracking heat, and getting leads started in your pipeline. Setting
-  up a CRM can be confusing, but it doesn’t have to be. Today I’ll go over tags,
-  tracking heat, and getting leads started in your pipeline. 
+  over tags, tracking heat, and getting leads started in your pipeline.
 enclosure: >-
   Setting up a CRM can be confusing, but it doesn’t have to be. Today I’ll go
-  over tags, tracking heat, and getting leads started in your pipeline. 
+  over tags, tracking heat, and getting leads started in your pipeline.
 pullquote: In my experience, you can’t create too many tags.
 enclosure_type: video/mp4
 enclosure_time:
