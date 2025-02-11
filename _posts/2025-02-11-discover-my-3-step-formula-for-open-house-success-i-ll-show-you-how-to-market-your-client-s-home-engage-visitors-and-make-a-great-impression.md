@@ -5,6 +5,8 @@ title: >-
   your client’s home, engage visitors, and make a great impression.
 date: 2025-02-11 00:00:00
 tags:
+  - Real Estate
+  - Open House
 hidden: false
 excerpt: >-
   Discover my 3-step formula for open house success—I'll show you how to market
